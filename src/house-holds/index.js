@@ -1,7 +1,5 @@
-// import xfs from '../lib/fs-rx.js';
 import csv from 'fast-csv';
 import fs from 'fs';
-import R from 'ramda';
 import path from 'path';
 
 const nameIDObjs = [];
