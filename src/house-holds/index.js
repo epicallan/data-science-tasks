@@ -29,9 +29,9 @@ export const matchNamesToIds = row =>
 export const createRowObj = data => {
   const person = nameIDObjs.find(obj => obj.name.includes(data.Name));
   const id = person ? person.id : null;
-  return { ...data, id };
+  return { id, ...data };
 };
-let counter = 0;
+
 const cleanerStreamReader = () => {
   csv
     .fromStream(cleanerStream, {
@@ -40,12 +40,7 @@ const cleanerStreamReader = () => {
     })
     .on('data', data => {
       const line = createRowObj(data);
-      if (parseInt(line.id, 10)) {
-        csvWriteStream.write(line);
-        console.log('line', line);
-      }
-      counter ++;
-      // if (counter > 3) process.exit();
+      if (parseInt(line.id, 10)) csvWriteStream.write(line);
     })
     .on('end', () => {
       console.log('done reading cleaner sheet data');

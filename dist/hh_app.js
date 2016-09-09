@@ -107,20 +107,15 @@
 	    return obj.name.includes(data.Name);
 	  });
 	  var id = person ? person.id : null;
-	  return _extends({}, data, { id: id });
+	  return _extends({ id: id }, data);
 	};
-	var counter = 0;
+
 	var cleanerStreamReader = function cleanerStreamReader() {
 	  _fastCsv2.default.fromStream(cleanerStream, {
 	    headers: ['Name', 'Relationship', 'Age', 'Orphan?', 'Education Level', 'Institution', 'Employed?', 'NSSF']
 	  }).on('data', function (data) {
 	    var line = createRowObj(data);
-	    if (parseInt(line.id, 10)) {
-	      csvWriteStream.write(line);
-	      console.log('line', line);
-	    }
-	    counter++;
-	    // if (counter > 3) process.exit();
+	    if (parseInt(line.id, 10)) csvWriteStream.write(line);
 	  }).on('end', function () {
 	    console.log('done reading cleaner sheet data');
 	    csvWriteStream.end();
