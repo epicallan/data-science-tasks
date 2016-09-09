@@ -1,0 +1,55 @@
+{
+  "name": "data-science-tasks",
+  "version": "1.0.0",
+  "description": "for various data science related scripts",
+  "main": "index.js",
+  "scripts": {
+    "build": "rimraf dist && webpack --progress --colors --optimize-minimize",
+    "dev": "webpack --watch",
+    "start": "node dist/hh_app.js",
+    "lint": "eslint src --cache",
+    "test": " NODE_ENV=test mocha $(find src -name '*-test.js')  --compilers js:babel-core/register",
+    "test-watch": "NODE_ENV=test mocha $(find src -name '*-test.js') --compilers js:babel-core/register --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epicallan/data-scince-tasks.git"
+  },
+  "keywords": [
+    "data",
+    "data",
+    "science",
+    "csv",
+    "DI"
+  ],
+  "author": "epicallan.al@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/epicallan/data-scince-tasks/issues"
+  },
+  "homepage": "https://github.com/epicallan/data-scince-tasks#readme",
+  "dependencies": {
+    "fast-csv": "^2.1.0",
+    "ramda": "^0.22.1",
+    "rxjs-es": "^5.0.0-beta.11",
+    "chai": "^3.5.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.14.0",
+    "babel-eslint": "^6.1.2",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.14.0",
+    "babel-preset-stage-0": "^6.5.0",
+    "babel-preset-stage-3": "^6.11.0",
+    "concurrently": "^2.2.0",
+    "eslint": "^3.4.0",
+    "eslint-config-airbnb": "^11.0.0",
+    "eslint-plugin-import": "^1.14.0",
+    "eslint-plugin-jsx-a11y": "^2.2.1",
+    "eslint-plugin-react": "^6.2.0",
+    "json-loader": "^0.5.4",
+    "mocha": "^3.0.2",
+    "rimraf": "^2.5.4",
+    "webpack": "^1.13.2"
+  }
+}
