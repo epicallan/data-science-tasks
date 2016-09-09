@@ -2,7 +2,7 @@ import csv from 'fast-csv';
 import fs from 'fs';
 import path from 'path';
 
-const nameIDObjs = [];
+const persons = [];
 
 const filePathes = (name) => path.resolve(process.cwd(), `./src/house-holds/samples/${name}`);
 
@@ -25,7 +25,7 @@ export const matchNamesToIds = row =>
       .filter(obj => obj.name.length > 2 && parseInt(obj.id, 10));
 
 export const createRowObj = data => {
-  const person = nameIDObjs.find(obj => obj.name.includes(data.Name));
+  const person = persons.find(obj => obj.name.includes(data.Name));
   const id = person ? person.id : null;
   return { id, ...data };
 };
@@ -51,8 +51,8 @@ csv
     headers: ['id', 'info', 'id']
   })
   .on('data', data => {
-    const persons = matchNamesToIds(data);
-    nameIDObjs.push(...persons);
+    const groupOfPeople = matchNamesToIds(data);
+    persons.push(...groupOfPeople);
   })
   .on('end', () => {
     console.log('done parsing sheet data');

@@ -69,7 +69,7 @@
 
 	function _toConsumableArray(arr) { if (Array.isArray(arr)) { for (var i = 0, arr2 = Array(arr.length); i < arr.length; i++) { arr2[i] = arr[i]; } return arr2; } else { return Array.from(arr); } }
 
-	var nameIDObjs = [];
+	var persons = [];
 
 	var filePathes = function filePathes(name) {
 	  return _path2.default.resolve(process.cwd(), './src/house-holds/samples/' + name);
@@ -98,7 +98,7 @@
 	};
 
 	var createRowObj = exports.createRowObj = function createRowObj(data) {
-	  var person = nameIDObjs.find(function (obj) {
+	  var person = persons.find(function (obj) {
 	    return obj.name.includes(data.Name);
 	  });
 	  var id = person ? person.id : null;
@@ -120,8 +120,8 @@
 	_fastCsv2.default.fromStream(sheetStream, {
 	  headers: ['id', 'info', 'id']
 	}).on('data', function (data) {
-	  var persons = matchNamesToIds(data);
-	  nameIDObjs.push.apply(nameIDObjs, _toConsumableArray(persons));
+	  var groupOfPeople = matchNamesToIds(data);
+	  persons.push.apply(persons, _toConsumableArray(groupOfPeople));
 	}).on('end', function () {
 	  console.log('done parsing sheet data');
 	  csvWriteStream.pipe(writableStream);
