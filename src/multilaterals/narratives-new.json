@@ -58,8 +58,8 @@
         "p2_notes": "The sectoral breakdown shown on this page includes the grouping of certain OECD DAC sectors. Sub-sectors, also known as 'purpose names', provide a greater level of granularity on sectoral expenditure and are available in CRS data reporting. For more information on OECD DAC sectors and purpose names, see: http://www.oecd.org/dac/stats/purposecodessectorclassification.htm",
         "p2_section_title_1": "How is ODA from [insert parent name] spent by sector?",
         "p3_notes": "All ODA and OOF data shown in this profile is sourced from OECD tables DAC1, DAC2a, DAC2b and the CRS. The ODA and OOF data used in this profile is disbursements (actual payments in each year from the donor) and is for the latest year available. Acronyms: CRS: Creditor Reporting System; DAC: Development Assistance Committee; ODA: official development assistance; OECD: Organisation for Economic Co-operation and Development; OOFs: other official flows.",
-        "p3_section_title_1": "How is ODA from [insert parent name] channelled",
-        "p3_section_title_2": "How is ODA from [insert parent name] targeted"
+        "p3_section_title_1": "How is ODA from [insert parent name] channelled?",
+        "p3_section_title_2": "How is ODA from [insert parent name] targeted?"
     },
     "African Development Bank and Fund": {
         "m10_notes": "Channel of delivery refers to the first implementing partner of the ODA funds",
@@ -68,7 +68,7 @@
         "m10_year": "2015",
         "m11_axis_title_1": "Depth of poverty %",
         "m11_axis_title_2": "Non-grant government revenue per capita, PPP$, 2015",
-        "m11_notes": "Depth of poverty data is sourced from PovcalNet and is a measure of the average gap in incomes for people living below the poverty line spread across the population of the whole country, expressed as a percentage of the $1.90 a day poverty line. Government revenue data is sourced from the IMF and refers to the total non-grant revenue either collected or projected to be collected by the government in the financial year 2015.",
+        "m11_notes": "Depth of poverty data is sourced from PovcalNet and is a measure of the average gap in incomes for people living below the poverty line spread across the population of the whole country, expressed as a percentage of the 2011PPP$1.90 a day poverty line. Government revenue data is sourced from the IMF and refers to the total non-grant revenue either collected or projected to be collected by the government in the financial year 2015; it is expressed in 2015PPP$, as estimated by the IMF",
         "m11_scale": "100",
         "m11_title": "The majority of ODA from AfDB is targeted towards countries with a non-grant government revenue per capita below $600",
         "m11_year": "2015",
@@ -119,8 +119,8 @@
         "p2_notes": "The sectoral breakdown shown on this page includes the grouping of certain OECD DAC sectors. Sub-sectors, also known as 'purpose names', provide a greater level of granularity on sectoral expenditure and are available in CRS data reporting. For more information on OECD DAC sectors and purpose names, see: http://www.oecd.org/dac/stats/purposecodessectorclassification.htm.",
         "p2_section_title_1": "How is ODA from African Development Bank and Fund spent by sector?",
         "p3_notes": "All ODA and OOF data shown in this profile is sourced from OECD tables DAC1, DAC2a, DAC2b or the CRS. The ODA and OOF data used in this profile is disbursements (actual payments in each year from the donor) and is for the latest year available. Acronyms: CRS: Creditor Reporting System; DAC: Development Assistance Committee; ODA: official development assistance; OECD: Organisation for Economic Co-operation and Development; OOFs: other official flows; UK: United Kingdom; US: United States; DRC: Democratic Republic of the Congo; IMF: International Monetary Fund ",
-        "p3_section_title_1": "How is ODA from African Development Bank and Fund channelled",
-        "p3_section_title_2": "How is ODA from African Development Bank and Fund targeted"
+        "p3_section_title_1": "How is ODA from African Development Bank and Fund channelled?",
+        "p3_section_title_2": "How is ODA from African Development Bank and Fund targeted?"
     },
     "Asian Development Bank": {
         "m10_notes": "Channel of delivery refers to the first implementing partner of the ODA funds",
@@ -129,7 +129,7 @@
         "m10_year": "2015",
         "m11_axis_title_1": "Depth of poverty %",
         "m11_axis_title_2": "Non-grant government revenue per capita, PPP$, 2015",
-        "m11_notes": "Depth of poverty data is sourced from PovcalNet and is a measure of the average gap in incomes for people living below the poverty line spread across the population of the whole country, expressed as a percentage of the $1.90 a day poverty line. Government revenue data is sourced from the IMF and refers to the total non-grant revenue either collected or projected to be collected by the government in the financial year 2015.",
+        "m11_notes": "Depth of poverty data is sourced from PovcalNet and is a measure of the average gap in incomes for people living below the poverty line spread across the population of the whole country, expressed as a percentage of the 2011PPP$1.90 a day poverty line. Government revenue data is sourced from the IMF and refers to the total non-grant revenue either collected or projected to be collected by the government in the financial year 2015; it is expressed in 2015PPP$, as estimated by the IMF",
         "m11_scale": "100",
         "m11_title": "The majority of ODA from ADB is targeted towards countries with a non-grant government revenue per capita below $1,500",
         "m11_year": "2015",
@@ -180,8 +180,8 @@
         "p2_notes": "The sectoral breakdown shown on this page includes the grouping of certain OECD DAC sectors. Sub-sectors, also known as 'purpose names', provide a greater level of granularity on sectoral expenditure and are available in CRS data reporting. For more information on OECD DAC sectors and purpose names, see: http://www.oecd.org/dac/stats/purposecodessectorclassification.htm.",
         "p2_section_title_1": "How is ODA from Asian Development Bank spent by sector?",
         "p3_notes": "All ODA and OOFs data shown in this profile is sourced from OECD tables DAC1, DAC2a, DAC2b or the CRS. The ODA and OOFs data used in this profile is disbursements (actual payments in each year from the donor) and is for the latest year available. Acronyms: CRS: Creditor Reporting System; DAC: Development Assistance Committee; ODA: official development assistance; OECD: Organisation for Economic Co-operation and Development; OOFs: other official flows; UK: United Kingdom; US: United States; IMF: International Monetary Fund.",
-        "p3_section_title_1": "How is ODA from Asian Development Bank channelled",
-        "p3_section_title_2": "How is ODA from Asian Development Bank targeted"
+        "p3_section_title_1": "How is ODA from Asian Development Bank channelled?",
+        "p3_section_title_2": "How is ODA from Asian Development Bank targeted?"
     },
     "EU Institutions": {
         "m10_notes": "Channel of delivery refers to the first implementing partner of the ODA funds",
@@ -190,7 +190,7 @@
         "m10_year": "2015",
         "m11_axis_title_1": "Depth of poverty %",
         "m11_axis_title_2": "Non-grant government revenue per capita, PPP$, 2015",
-        "m11_notes": "Depth of poverty data is sourced from PovcalNet and is a measure of the average gap in incomes for people living below the poverty line spread across the population of the whole country, expressed as a percentage of the $1.90 a day poverty line. Government revenue data is sourced from the IMF and refers to the total non-grant revenue either collected or projected to be collected by the government in the financial year 2015.",
+        "m11_notes": "Depth of poverty data is sourced from PovcalNet and is a measure of the average gap in incomes for people living below the poverty line spread across the population of the whole country, expressed as a percentage of the 2011PPP$1.90 a day poverty line. Government revenue data is sourced from the IMF and refers to the total non-grant revenue either collected or projected to be collected by the government in the financial year 2015; it is expressed in 2015PPP$, as estimated by the IMF",
         "m11_scale": "100",
         "m11_title": "EU institutions’ ODA by recipient is disbursed across the depth-of-poverty distribution",
         "m11_year": "2015",
@@ -241,8 +241,8 @@
         "p2_notes": "The sectoral breakdown shown on this page includes the grouping of certain OECD DAC sectors. Sub-sectors, also known as 'purpose names', provide a greater level of granularity on sectoral expenditure and are available in CRS data reporting. For more information on OECD DAC sectors and purpose names, see: http://www.oecd.org/dac/stats/purposecodessectorclassification.htm.",
         "p2_section_title_1": "How is ODA from EU Institutions spent by sector?",
         "p3_notes": "All ODA and OOFs data shown in this profile is sourced from OECD tables DAC1, DAC2a, DAC2b or the CRS. The ODA and OOFs data used in this profile is disbursements (actual payments in each year from the donor) and is for the latest year available. Acronyms: CRS: Creditor Reporting System; DAC: Development Assistance Committee; ODA: official development assistance; OECD: Organisation for Economic Co-operation and Development; OOFs: other official flows; UK: United Kingdom; IMF: International Monetary Fund.",
-        "p3_section_title_1": "How is ODA from EU Institutions channelled",
-        "p3_section_title_2": "How is ODA from EU Institutions targeted"
+        "p3_section_title_1": "How is ODA from EU Institutions channelled?",
+        "p3_section_title_2": "How is ODA from EU Institutions targeted?"
     },
     "World Bank Group": {
         "m10_notes": "Channel of delivery refers to the first implementing partner of the ODA funds",
@@ -251,7 +251,7 @@
         "m10_year": "2015",
         "m11_axis_title_1": "Depth of poverty %",
         "m11_axis_title_2": "Non-grant government revenue per capita, PPP$, 2015",
-        "m11_notes": "Depth of poverty data is sourced from PovcalNet and is a measure of the average gap in incomes for people living below the poverty line spread across the population of the whole country, expressed as a percentage of the $1.90 a day poverty line. Government revenue data is sourced from the IMF and refers to the total non-grant revenue either collected or projected to be collected by the government in the financial year 2015.",
+        "m11_notes": "Depth of poverty data is sourced from PovcalNet and is a measure of the average gap in incomes for people living below the poverty line spread across the population of the whole country, expressed as a percentage of the 2011PPP$1.90 a day poverty line. Government revenue data is sourced from the IMF and refers to the total non-grant revenue either collected or projected to be collected by the government in the financial year 2015; it is expressed in 2015PPP$, as estimated by the IMF",
         "m11_scale": "100",
         "m11_title": "ODA by depth of poverty and non-government revenue per capita of recipient",
         "m11_year": "2015",
@@ -302,8 +302,8 @@
         "p2_notes": "The sectoral breakdown shown on this page includes the grouping of certain OECD DAC sectors. Sub-sectors, also known as 'purpose names', provide a greater level of granularity on sectoral expenditure and are available in CRS data reporting. For more information on OECD DAC sectors and purpose names, see: http://www.oecd.org/dac/stats/purposecodessectorclassification.htm.",
         "p2_section_title_1": "How is ODA from World Bank Group spent by sector?",
         "p3_notes": "All ODA and OOFs data shown in this profile is sourced from OECD tables DAC1, DAC2a, DAC2b or the CRS. The ODA and OOFs data used in this profile is disbursements (actual payments in each year from the donor) and is for the latest year available. Acronyms: CRS: Creditor Reporting System; DAC: Development Assistance Committee; ODA: official development assistance; OECD: Organisation for Economic Co-operation and Development; UK: United Kingdom; US: United States; IMF: International Monetary Fund.",
-        "p3_section_title_1": "How is ODA from World Bank Group channelled",
-        "p3_section_title_2": "How is ODA from World Bank Group targeted"
+        "p3_section_title_1": "How is ODA from World Bank Group channelled?",
+        "p3_section_title_2": "How is ODA from World Bank Group targeted?"
     },
     "United Nations Development Programme": {
         "m10_notes": "Channel of delivery refers to the first implementing partner of the ODA funds",
@@ -312,7 +312,7 @@
         "m10_year": "2015",
         "m11_axis_title_1": "Depth of poverty %",
         "m11_axis_title_2": "Non-grant government revenue per capita, PPP$, 2015",
-        "m11_notes": "Depth of poverty data is sourced from PovcalNet and is a measure of the average gap in incomes for people living below the poverty line spread across the population of the whole country, expressed as a percentage of the $1.90 a day poverty line. Government revenue data is sourced from the IMF and refers to the total non-grant revenue either collected or projected to be collected by the government in the financial year 2015.",
+        "m11_notes": "Depth of poverty data is sourced from PovcalNet and is a measure of the average gap in incomes for people living below the poverty line spread across the population of the whole country, expressed as a percentage of the 2011PPP$1.90 a day poverty line. Government revenue data is sourced from the IMF and refers to the total non-grant revenue either collected or projected to be collected by the government in the financial year 2015; it is expressed in 2015PPP$, as estimated by the IMF",
         "m11_scale": "100",
         "m11_title": "Most of UNDP's ODA is disbursed towards countries at the lower end of the distribution of non-grant government revenue per capita ",
         "m11_year": "2015",
@@ -362,8 +362,8 @@
         "p2_notes": "The sectoral breakdown shown on this page includes the grouping of certain OECD DAC sectors. Sub-sectors, also known as 'purpose names', provide a greater level of granularity on sectoral expenditure and are available in CRS data reporting. For more information on OECD DAC sectors and purpose names, see: http://www.oecd.org/dac/stats/purposecodessectorclassification.htm.",
         "p2_section_title_1": "How is ODA from United Nations Development Programme spent by sector?",
         "p3_notes": "All ODA data shown in this profile is sourced from OECD tables DAC1, DAC2a or the CRS. The ODA data used in this profile is disbursements (actual payments in each year from the donor) and is for the latest year available. Acronyms: Notes: Acronyms: CRS: Creditor Reporting System; DAC: Development Assistance Committee; DRC: Democratic Republic of the Congo; ODA: official development assistance; OECD: Organisation for Economic Co-operation and Development; OOFs: other official flows: IMF: International Monetary Fund.",
-        "p3_section_title_1": "How is ODA from United Nations Development Programme channelled",
-        "p3_section_title_2": "How is ODA from United Nations Development Programme targeted"
+        "p3_section_title_1": "How is ODA from United Nations Development Programme channelled?",
+        "p3_section_title_2": "How is ODA from United Nations Development Programme targeted?"
     },
     "Adaptation Fund": {
         "m10_notes": "The channel of delivery refers to the first implementing partner of the ODA funds",
@@ -423,8 +423,8 @@
         "p2_notes": "The sectoral breakdown shown on this page includes the grouping of certain OECD DAC sectors into the aggregated Development Initiatives 'ITEP sector'. Sub-sectors; also known as 'purpose names', provide a greater level of granularity on sectoral expenditure and are available in CRS data reporting, for more information on OECD DAC sectors and purpose names, see here: http://www.oecd.org/dac/stats/purposecodessectorclassification.htm",
         "p2_section_title_1": "How is ODA from Adaptation Fund spent by sector?",
         "p3_notes": "All ODA data shown in this profile is sourced from OECD tables DAC1, DAC2a or the CRS. The ODA data used in this profile are disbursements (actual payments in each year from the donor) and is for the latest year available. Acronyms: ODA: Official Development Assistance. DAC: Development Assistance Committee; OECD: Organisation for Economic Co-operation and Development",
-        "p3_section_title_1": "How is ODA from Adaptation Fund channelled",
-        "p3_section_title_2": "How is ODA from Adaptation Fund targeted"
+        "p3_section_title_1": "How is ODA from Adaptation Fund channelled?",
+        "p3_section_title_2": "How is ODA from Adaptation Fund targeted?"
     },
     "Climate Investment Funds": {
         "m10_notes": "The channel of delivery refers to the first implementing partner of the ODA funds",
@@ -484,8 +484,8 @@
         "p2_notes": "The sectoral breakdown shown on this page includes the grouping of certain OECD DAC sectors into the aggregated Development Initiatives 'ITEP sector'. Sub-sectors; also known as 'purpose names', provide a greater level of granularity on sectoral expenditure and are available in CRS data reporting, for more information on OECD DAC sectors and purpose names, see here: http://www.oecd.org/dac/stats/purposecodessectorclassification.htm",
         "p2_section_title_1": "How is ODA from Climate Investment Funds spent by sector?",
         "p3_notes": "All ODA and OOF data shown in this profile is sourced from OECD tables DAC1, DAC2a, DAC2b, or the CRS. The ODA and OOF data used in this profile are disbursements (actual payments in each year from the donor) and is for the latest year available. Acronyms: ODA: Official Development Assistance. DAC: Development Assistance Committee; OECD: Organisation for Economic Co-operation and Development",
-        "p3_section_title_1": "How is ODA from Climate Investment Funds channelled",
-        "p3_section_title_2": "How is ODA from Climate Investment Funds targeted"
+        "p3_section_title_1": "How is ODA from Climate Investment Funds channelled?",
+        "p3_section_title_2": "How is ODA from Climate Investment Funds targeted?"
     },
     "Global Environment Facility": {
         "m10_notes": "The channel of delivery refers to the first implementing partner of the ODA funds",
@@ -545,8 +545,8 @@
         "p2_notes": "The sectoral breakdown shown on this page includes the grouping of certain OECD DAC sectors into the aggregated Development Initiatives 'ITEP sector'. Sub-sectors; also known as 'purpose names', provide a greater level of granularity on sectoral expenditure and are available in CRS data reporting, for more information on OECD DAC sectors and purpose names, see here: http://www.oecd.org/dac/stats/purposecodessectorclassification.htm",
         "p2_section_title_1": "How is ODA from Global Environment Facility spent by sector?",
         "p3_notes": "All ODA data shown in this profile is sourced from OECD tables DAC1, DAC2a or the CRS. The ODA data used in this profile are disbursements (actual payments in each year from the donor) and is for the latest year available. Acronyms: ODA: Official Development Assistance. DAC: Development Assistance Committee; OECD: Organisation for Economic Co-operation and Development",
-        "p3_section_title_1": "How is ODA from Global Environment Facility chennelled",
-        "p3_section_title_2": "How is ODA from Global Environment Facility targeted"
+        "p3_section_title_1": "How is ODA from Global Environment Facility chennelled?",
+        "p3_section_title_2": "How is ODA from Global Environment Facility targeted?"
     },
     "Global Green Growth Institute": {
         "m10_notes": "The channel of delivery refers to the first implementing partner of the ODA funds",
@@ -606,8 +606,8 @@
         "p2_notes": "The sectoral breakdown shown on this page includes the grouping of certain OECD DAC sectors into the aggregated Development Initiatives 'ITEP sector'. Sub-sectors; also known as 'purpose names', provide a greater level of granularity on sectoral expenditure and are available in CRS data reporting, for more information on OECD DAC sectors and purpose names, see here: http://www.oecd.org/dac/stats/purposecodessectorclassification.htm",
         "p2_section_title_1": "How is ODA from Global Green Growth Institute spent by sector?",
         "p3_notes": "All ODA data shown in this profile is sourced from OECD tables DAC1, DAC2a or the CRS. The ODA data used in this profile are disbursements (actual payments in each year from the donor) and is for the latest year available. Acronyms: ODA: Official Development Assistance. DAC: Development Assistance Committee; OECD: Organisation for Economic Co-operation and Development",
-        "p3_section_title_1": "How is ODA from Global Green Growth Institute channelled",
-        "p3_section_title_2": "How is ODA from Global Green Growth Institute targeted"
+        "p3_section_title_1": "How is ODA from Global Green Growth Institute channelled?",
+        "p3_section_title_2": "How is ODA from Global Green Growth Institute targeted?"
     },
     "Inter-American Development Bank": {
         "m10_notes": "The channel of delivery refers to the first implementing partner of the ODA funds",
@@ -667,8 +667,8 @@
         "p2_notes": "The sectoral breakdown shown on this page includes the grouping of certain OECD DAC sectors into the aggregated Development Initiatives 'ITEP sector'. Sub-sectors; also known as 'purpose names', provide a greater level of granularity on sectoral expenditure and are available in CRS data reporting, for more information on OECD DAC sectors and purpose names, see here: http://www.oecd.org/dac/stats/purposecodessectorclassification.htm",
         "p2_section_title_1": "How is ODA from Inter-American Development Bank spent by sector?",
         "p3_notes": "All ODA and OOF data shown in this profile is sourced from OECD tables DAC1, DAC2a, DAC2b, or the CRS. The ODA and OOF data used in this profile are disbursements (actual payments in each year from the donor) and is for the latest year available. Acronyms: ODA: Official Development Assistance. DAC: Development Assistance Committee; OECD: Organisation for Economic Co-operation and Development",
-        "p3_section_title_1": "How is ODA from Inter-American Development Bank channelled",
-        "p3_section_title_2": "How is ODA from Inter-American Development Bank targeted"
+        "p3_section_title_1": "How is ODA from Inter-American Development Bank channelled?",
+        "p3_section_title_2": "How is ODA from Inter-American Development Bank targeted?"
     },
     "Nordic Development Fund": {
         "m10_notes": "The channel of delivery refers to the first implementing partner of the ODA funds",
@@ -728,8 +728,8 @@
         "p2_notes": "The sectoral breakdown shown on this page includes the grouping of certain OECD DAC sectors into the aggregated Development Initiatives 'ITEP sector'. Sub-sectors; also known as 'purpose names', provide a greater level of granularity on sectoral expenditure and are available in CRS data reporting, for more information on OECD DAC sectors and purpose names, see here: http://www.oecd.org/dac/stats/purposecodessectorclassification.htm",
         "p2_section_title_1": "How is ODA from Nordic Development Fund spent by sector?",
         "p3_notes": "All ODA data shown in this profile is sourced from OECD tables DAC1, DAC2a or the CRS. The ODA data used in this profile are disbursements (actual payments in each year from the donor) and is for the latest year available. Acronyms: ODA: Official Development Assistance. DAC: Development Assistance Committee; OECD: Organisation for Economic Co-operation and Development",
-        "p3_section_title_1": "How is ODA from Nordic Development Fund channelled",
-        "p3_section_title_2": "How is ODA from Nordic Development Fund targeted"
+        "p3_section_title_1": "How is ODA from Nordic Development Fund channelled?",
+        "p3_section_title_2": "How is ODA from Nordic Development Fund targeted?"
     },
     "Organization for Security and Co-operation in Europe": {
         "m10_notes": "The channel of delivery refers to the first implementing partner of the ODA funds",
@@ -789,8 +789,8 @@
         "p2_notes": "The sectoral breakdown shown on this page includes the grouping of certain OECD DAC sectors into the aggregated Development Initiatives 'ITEP sector'. Sub-sectors; also known as 'purpose names', provide a greater level of granularity on sectoral expenditure and are available in CRS data reporting, for more information on OECD DAC sectors and purpose names, see here: http://www.oecd.org/dac/stats/purposecodessectorclassification.htm",
         "p2_section_title_1": "How is ODA from Organization for Security and Co-operation in Europe spent by sector?",
         "p3_notes": "All ODA data shown in this profile is sourced from OECD tables DAC1, DAC2a or the CRS. The ODA data used in this profile are disbursements (actual payments in each year from the donor) and is for the latest year available. Acronyms: ODA: Official Development Assistance. DAC: Development Assistance Committee; OECD: Organisation for Economic Co-operation and Development",
-        "p3_section_title_1": "How is ODA from Organization for Security and Co-operation in Europe channelled",
-        "p3_section_title_2": "How is ODA from Organization for Security and Co-operation in Europe targeted"
+        "p3_section_title_1": "How is ODA from Organization for Security and Co-operation in Europe channelled?",
+        "p3_section_title_2": "How is ODA from Organization for Security and Co-operation in Europe targeted?"
     },
     "The Joint United Nations Programme on HIV/AIDS": {
         "m10_notes": "The channel of delivery refers to the first implementing partner of the ODA funds",
@@ -850,8 +850,8 @@
         "p2_notes": "The sectoral breakdown shown on this page includes the grouping of certain OECD DAC sectors into the aggregated Development Initiatives 'ITEP sector'. Sub-sectors; also known as 'purpose names', provide a greater level of granularity on sectoral expenditure and are available in CRS data reporting, for more information on OECD DAC sectors and purpose names, see here: http://www.oecd.org/dac/stats/purposecodessectorclassification.htm",
         "p2_section_title_1": "How is ODA from The Joint United Nations Programme on HIV/AIDS spent by sector?",
         "p3_notes": "All ODA data shown in this profile is sourced from OECD tables DAC1, DAC2a or the CRS. The ODA data used in this profile are disbursements (actual payments in each year from the donor) and is for the latest year available. Acronyms: ODA: Official Development Assistance. DAC: Development Assistance Committee; OECD: Organisation for Economic Co-operation and Development",
-        "p3_section_title_1": "How is ODA from The Joint United Nations Programme on HIV/AIDS channelled",
-        "p3_section_title_2": "How is ODA from The Joint United Nations Programme on HIV/AIDS targeted"
+        "p3_section_title_1": "How is ODA from The Joint United Nations Programme on HIV/AIDS channelled?",
+        "p3_section_title_2": "How is ODA from The Joint United Nations Programme on HIV/AIDS targeted?"
     },
     "United Nations Economic Commission for Europe": {
         "m10_notes": "The channel of delivery refers to the first implementing partner of the ODA funds",
@@ -911,8 +911,8 @@
         "p2_notes": "The sectoral breakdown shown on this page includes the grouping of certain OECD DAC sectors into the aggregated Development Initiatives 'ITEP sector'. Sub-sectors; also known as 'purpose names', provide a greater level of granularity on sectoral expenditure and are available in CRS data reporting, for more information on OECD DAC sectors and purpose names, see here: http://www.oecd.org/dac/stats/purposecodessectorclassification.htm",
         "p2_section_title_1": "How is ODA from United Nations Economic Commission for Europe spent by sector?",
         "p3_notes": "All ODA data shown in this profile is sourced from OECD tables DAC1, DAC2a or the CRS. The ODA data used in this profile are disbursements (actual payments in each year from the donor) and is for the latest year available. Acronyms: ODA: Official Development Assistance. DAC: Development Assistance Committee; OECD: Organisation for Economic Co-operation and Development",
-        "p3_section_title_1": "How is ODA from United Nations Economic Commission for Europe channelled",
-        "p3_section_title_2": "How is ODA from United Nations Economic Commission for Europe targeted"
+        "p3_section_title_1": "How is ODA from United Nations Economic Commission for Europe channelled?",
+        "p3_section_title_2": "How is ODA from United Nations Economic Commission for Europe targeted?"
     },
     "United Nations Children's Fund": {
         "m10_notes": "The channel of delivery refers to the first implementing partner of the ODA funds",
@@ -972,8 +972,8 @@
         "p2_notes": "The sectoral breakdown shown on this page includes the grouping of certain OECD DAC sectors into the aggregated Development Initiatives 'ITEP sector'. Sub-sectors; also known as 'purpose names', provide a greater level of granularity on sectoral expenditure and are available in CRS data reporting, for more information on OECD DAC sectors and purpose names, see here: http://www.oecd.org/dac/stats/purposecodessectorclassification.htm",
         "p2_section_title_1": "How is ODA from United Nations Children's Fund spent by sector?",
         "p3_notes": "All ODA data shown in this profile is sourced from OECD tables DAC1, DAC2a or the CRS. The ODA data used in this profile are disbursements (actual payments in each year from the donor) and is for the latest year available. Acronyms: ODA: Official Development Assistance. DAC: Development Assistance Committee; OECD: Organisation for Economic Co-operation and Development",
-        "p3_section_title_1": "How is ODA from United Nations Children's Fund channelled",
-        "p3_section_title_2": "How is ODA from United Nations Children's Fund targeted"
+        "p3_section_title_1": "How is ODA from United Nations Children's Fund channelled?",
+        "p3_section_title_2": "How is ODA from United Nations Children's Fund targeted?"
     },
     "United Nations Peacebuilding Fund": {
         "m10_notes": "The channel of delivery refers to the first implementing partner of the ODA funds",
@@ -1033,8 +1033,8 @@
         "p2_notes": "The sectoral breakdown shown on this page includes the grouping of certain OECD DAC sectors into the aggregated Development Initiatives 'ITEP sector'. Sub-sectors; also known as 'purpose names', provide a greater level of granularity on sectoral expenditure and are available in CRS data reporting, for more information on OECD DAC sectors and purpose names, see here: http://www.oecd.org/dac/stats/purposecodessectorclassification.htm",
         "p2_section_title_1": "How is ODA from United Nations Peacebuilding Fund spent by sector?",
         "p3_notes": "All ODA data shown in this profile is sourced from OECD tables DAC1, DAC2a or the CRS. The ODA data used in this profile are disbursements (actual payments in each year from the donor) and is for the latest year available. Acronyms: ODA: Official Development Assistance. DAC: Development Assistance Committee; OECD: Organisation for Economic Co-operation and Development",
-        "p3_section_title_1": "How is ODA from United Nations Peacebuilding Fund channelled",
-        "p3_section_title_2": "How is ODA from United Nations Peacebuilding Fund targeted"
+        "p3_section_title_1": "How is ODA from United Nations Peacebuilding Fund channelled?",
+        "p3_section_title_2": "How is ODA from United Nations Peacebuilding Fund targeted?"
     },
     "United Nations Relief and Works Agency for Palestine Refugees in the Near East": {
         "m10_notes": "The channel of delivery refers to the first implementing partner of the ODA funds",
@@ -1094,8 +1094,8 @@
         "p2_notes": "The sectoral breakdown shown on this page includes the grouping of certain OECD DAC sectors into the aggregated Development Initiatives 'ITEP sector'. Sub-sectors; also known as 'purpose names', provide a greater level of granularity on sectoral expenditure and are available in CRS data reporting, for more information on OECD DAC sectors and purpose names, see here: http://www.oecd.org/dac/stats/purposecodessectorclassification.htm",
         "p2_section_title_1": "How is ODA from United Nations Relief and Works Agency for Palestine Refugees in the Near East spent by sector?",
         "p3_notes": "All ODA data shown in this profile is sourced from OECD tables DAC1, DAC2a or the CRS. The ODA data used in this profile are disbursements (actual payments in each year from the donor) and is for the latest year available. Acronyms: ODA: Official Development Assistance. DAC: Development Assistance Committee; OECD: Organisation for Economic Co-operation and Development",
-        "p3_section_title_1": "How is ODA from United Nations Relief and Works Agency for Palestine Refugees in the Near East channelled",
-        "p3_section_title_2": "How is ODA from United Nations Relief and Works Agency for Palestine Refugees in the Near East targeted"
+        "p3_section_title_1": "How is ODA from United Nations Relief and Works Agency for Palestine Refugees in the Near East channelled?",
+        "p3_section_title_2": "How is ODA from United Nations Relief and Works Agency for Palestine Refugees in the Near East targeted?"
     },
     "World Food Programme": {
         "m10_notes": "The channel of delivery refers to the first implementing partner of the ODA funds",
@@ -1155,8 +1155,8 @@
         "p2_notes": "The sectoral breakdown shown on this page includes the grouping of certain OECD DAC sectors into the aggregated Development Initiatives 'ITEP sector'. Sub-sectors; also known as 'purpose names', provide a greater level of granularity on sectoral expenditure and are available in CRS data reporting, for more information on OECD DAC sectors and purpose names, see here: http://www.oecd.org/dac/stats/purposecodessectorclassification.htm",
         "p2_section_title_1": "How is ODA from World Food Programme spent by sector?",
         "p3_notes": "All ODA data shown in this profile is sourced from OECD tables DAC1, DAC2a or the CRS. The ODA data used in this profile are disbursements (actual payments in each year from the donor) and is for the latest year available. Acronyms: ODA: Official Development Assistance. DAC: Development Assistance Committee; OECD: Organisation for Economic Co-operation and Development",
-        "p3_section_title_1": "How is ODA from United Nations Relief and Works Agency for Palestine Refugees in the Near East channelled",
-        "p3_section_title_2": "How is ODA from United Nations Relief and Works Agency for Palestine Refugees in the Near East targeted"
+        "p3_section_title_1": "How is ODA from United Nations Relief and Works Agency for Palestine Refugees in the Near East channelled?",
+        "p3_section_title_2": "How is ODA from United Nations Relief and Works Agency for Palestine Refugees in the Near East targeted?"
     },
     "World Health Organisation": {
         "m10_notes": "The channel of delivery refers to the first implementing partner of the ODA funds",
@@ -1216,8 +1216,8 @@
         "p2_notes": "The sectoral breakdown shown on this page includes the grouping of certain OECD DAC sectors into the aggregated Development Initiatives 'ITEP sector'. Sub-sectors; also known as 'purpose names', provide a greater level of granularity on sectoral expenditure and are available in CRS data reporting, for more information on OECD DAC sectors and purpose names, see here: http://www.oecd.org/dac/stats/purposecodessectorclassification.htm",
         "p2_section_title_1": "How is ODA from World Health Organisation spent by sector?",
         "p3_notes": "All ODA data shown in this profile is sourced from OECD tables DAC1, DAC2a or the CRS. The ODA data used in this profile are disbursements (actual payments in each year from the donor) and is for the latest year available. Acronyms: ODA: Official Development Assistance. DAC: Development Assistance Committee; OECD: Organisation for Economic Co-operation and Development",
-        "p3_section_title_1": "How is ODA from World Health Organisation channelled",
-        "p3_section_title_2": "How is ODA from World Health Organisation targeted"
+        "p3_section_title_1": "How is ODA from World Health Organisation channelled?",
+        "p3_section_title_2": "How is ODA from World Health Organisation targeted?"
     },
     "Arab Fund": {
         "m10_notes": "The channel of delivery refers to the first implementing partner of the ODA funds",
@@ -1277,8 +1277,8 @@
         "p2_notes": "The sectoral breakdown shown on this page includes the grouping of certain OECD DAC sectors into the aggregated Development Initiatives 'ITEP sector'. Sub-sectors; also known as 'purpose names', provide a greater level of granularity on sectoral expenditure and are available in CRS data reporting, for more information on OECD DAC sectors and purpose names, see here: http://www.oecd.org/dac/stats/purposecodessectorclassification.htm",
         "p2_section_title_1": "How is ODA from Arab Fund spent by sector?",
         "p3_notes": "All ODA data shown in this profile is sourced from OECD tables DAC1, DAC2a or the CRS. The ODA data used in this profile are disbursements (actual payments in each year from the donor) and is for the latest year available. Acronyms: ODA: Official Development Assistance. DAC: Development Assistance Committee; OECD: Organisation for Economic Co-operation and Development",
-        "p3_section_title_1": "How is ODA from Arab Fund channelled",
-        "p3_section_title_2": "How is ODA from Arab Fund targeted"
+        "p3_section_title_1": "How is ODA from Arab Fund channelled?",
+        "p3_section_title_2": "How is ODA from Arab Fund targeted?"
     },
     "Arab Bank for Economic Development in Africa": {
         "m10_notes": "The channel of delivery refers to the first implementing partner of the ODA funds",
@@ -1338,8 +1338,8 @@
         "p2_notes": "The sectoral breakdown shown on this page includes the grouping of certain OECD DAC sectors into the aggregated Development Initiatives 'ITEP sector'. Sub-sectors; also known as 'purpose names', provide a greater level of granularity on sectoral expenditure and are available in CRS data reporting, for more information on OECD DAC sectors and purpose names, see here: http://www.oecd.org/dac/stats/purposecodessectorclassification.htm",
         "p2_section_title_1": "How is ODA from Arab Bank for Economic Development in Africa spent by sector?",
         "p3_notes": "All ODA data shown in this profile is sourced from OECD tables DAC1, DAC2a or the CRS. The ODA data used in this profile are disbursements (actual payments in each year from the donor) and is for the latest year available. Acronyms: ODA: Official Development Assistance. DAC: Development Assistance Committee; OECD: Organisation for Economic Co-operation and Development",
-        "p3_section_title_1": "How is ODA from Arab Bank for Economic Development in Africa channelled",
-        "p3_section_title_2": "How is ODA from Arab Bank for Economic Development in Africa targeted"
+        "p3_section_title_1": "How is ODA from Arab Bank for Economic Development in Africa channelled?",
+        "p3_section_title_2": "How is ODA from Arab Bank for Economic Development in Africa targeted?"
     },
     "Council of Europe Development Bank": {
         "m10_notes": "The channel of delivery refers to the first implementing partner of the ODA funds",
@@ -1399,8 +1399,8 @@
         "p2_notes": "The sectoral breakdown shown on this page includes the grouping of certain OECD DAC sectors into the aggregated Development Initiatives 'ITEP sector'. Sub-sectors; also known as 'purpose names', provide a greater level of granularity on sectoral expenditure and are available in CRS data reporting, for more information on OECD DAC sectors and purpose names, see here: http://www.oecd.org/dac/stats/purposecodessectorclassification.htm",
         "p2_section_title_1": "How is ODA from Council of Europe Development Bank spent by sector?",
         "p3_notes": "All ODA and OOF data shown in this profile is sourced from OECD tables DAC1, DAC2a, DAC2b, or the CRS. The ODA and OOF data used in this profile are disbursements (actual payments in each year from the donor) and is for the latest year available. Acronyms: ODA: Official Development Assistance. DAC: Development Assistance Committee; OECD: Organisation for Economic Co-operation and Development",
-        "p3_section_title_1": "How is ODA from Council of Europe Development Bank channelled",
-        "p3_section_title_2": "How is ODA from Council of Europe Development Bank targeted"
+        "p3_section_title_1": "How is ODA from Council of Europe Development Bank channelled?",
+        "p3_section_title_2": "How is ODA from Council of Europe Development Bank targeted?"
     },
     "OPEC Fund for International Development": {
         "m10_notes": "The channel of delivery refers to the first implementing partner of the ODA funds",
@@ -1460,8 +1460,8 @@
         "p2_notes": "The sectoral breakdown shown on this page includes the grouping of certain OECD DAC sectors into the aggregated Development Initiatives 'ITEP sector'. Sub-sectors; also known as 'purpose names', provide a greater level of granularity on sectoral expenditure and are available in CRS data reporting, for more information on OECD DAC sectors and purpose names, see here: http://www.oecd.org/dac/stats/purposecodessectorclassification.htm",
         "p2_section_title_1": "How is ODA from OPEC Fund for International Development spent by sector?",
         "p3_notes": "All ODA and OOF data shown in this profile is sourced from OECD tables DAC1, DAC2a, DAC2b, or the CRS. The ODA and OOF data used in this profile are disbursements (actual payments in each year from the donor) and is for the latest year available. Acronyms: ODA: Official Development Assistance. DAC: Development Assistance Committee; OECD: Organisation for Economic Co-operation and Development",
-        "p3_section_title_1": "How is ODA from OPEC Fund for International Development channelled",
-        "p3_section_title_2": "How is ODA from OPEC Fund for International Development targeted"
+        "p3_section_title_1": "How is ODA from OPEC Fund for International Development channelled?",
+        "p3_section_title_2": "How is ODA from OPEC Fund for International Development targeted?"
     },
     "Global Alliance for Vaccines and Immunization": {
         "m10_notes": "The channel of delivery refers to the first implementing partner of the ODA funds",
@@ -1521,8 +1521,8 @@
         "p2_notes": "The sectoral breakdown shown on this page includes the grouping of certain OECD DAC sectors into the aggregated Development Initiatives 'ITEP sector'. Sub-sectors; also known as 'purpose names', provide a greater level of granularity on sectoral expenditure and are available in CRS data reporting, for more information on OECD DAC sectors and purpose names, see here: http://www.oecd.org/dac/stats/purposecodessectorclassification.htm",
         "p2_section_title_1": "How is ODA from Global Alliance for Vaccines and Immunization spent by sector?",
         "p3_notes": "All ODA data shown in this profile is sourced from OECD tables DAC1, DAC2a or the CRS. The ODA data used in this profile are disbursements (actual payments in each year from the donor) and is for the latest year available. Acronyms: ODA: Official Development Assistance. DAC: Development Assistance Committee; OECD: Organisation for Economic Co-operation and Development",
-        "p3_section_title_1": "How is ODA from Global Alliance for Vaccines and Immunization channelled",
-        "p3_section_title_2": "How is ODA from Global Alliance for Vaccines and Immunization targeted"
+        "p3_section_title_1": "How is ODA from Global Alliance for Vaccines and Immunization channelled?",
+        "p3_section_title_2": "How is ODA from Global Alliance for Vaccines and Immunization targeted?"
     },
     "Global Fund": {
         "m10_notes": "The channel of delivery refers to the first implementing partner of the ODA funds",
@@ -1582,8 +1582,8 @@
         "p2_notes": "The sectoral breakdown shown on this page includes the grouping of certain OECD DAC sectors into the aggregated Development Initiatives 'ITEP sector'. Sub-sectors; also known as 'purpose names', provide a greater level of granularity on sectoral expenditure and are available in CRS data reporting, for more information on OECD DAC sectors and purpose names, see here: http://www.oecd.org/dac/stats/purposecodessectorclassification.htm",
         "p2_section_title_1": "How is ODA from Global Fund spent by sector?",
         "p3_notes": "All ODA data shown in this profile is sourced from OECD tables DAC1, DAC2a or the CRS. The ODA data used in this profile are disbursements (actual payments in each year from the donor) and is for the latest year available. Acronyms: ODA: Official Development Assistance. DAC: Development Assistance Committee; OECD: Organisation for Economic Co-operation and Development",
-        "p3_section_title_1": "How is ODA from Global Fund channelled",
-        "p3_section_title_2": "How is ODA from Global Fund targeted"
+        "p3_section_title_1": "How is ODA from Global Fund channelled?",
+        "p3_section_title_2": "How is ODA from Global Fund targeted?"
     },
     "International Monetary Fund": {
         "m10_notes": "The channel of delivery refers to the first implementing partner of the ODA funds",
@@ -1643,8 +1643,8 @@
         "p2_notes": "The sectoral breakdown shown on this page includes the grouping of certain OECD DAC sectors into the aggregated Development Initiatives 'ITEP sector'. Sub-sectors; also known as 'purpose names', provide a greater level of granularity on sectoral expenditure and are available in CRS data reporting, for more information on OECD DAC sectors and purpose names, see here: http://www.oecd.org/dac/stats/purposecodessectorclassification.htm",
         "p2_section_title_1": "How is ODA from International Monetary Fund spent by sector?",
         "p3_notes": "All ODA data shown in this profile is sourced from OECD tables DAC1, DAC2a or the CRS. The ODA data used in this profile are disbursements (actual payments in each year from the donor) and is for the latest year available. Acronyms: ODA: Official Development Assistance. DAC: Development Assistance Committee; OECD: Organisation for Economic Co-operation and Development",
-        "p3_section_title_1": "How is ODA from International Monetary Fund channelled",
-        "p3_section_title_2": "How is ODA from International Monetary Fund targeted"
+        "p3_section_title_1": "How is ODA from International Monetary Fund channelled?",
+        "p3_section_title_2": "How is ODA from International Monetary Fund targeted?"
     },
     "Islamic Development Bank": {
         "m10_notes": "The channel of delivery refers to the first implementing partner of the ODA funds",
@@ -1704,8 +1704,8 @@
         "p2_notes": "The sectoral breakdown shown on this page includes the grouping of certain OECD DAC sectors into the aggregated Development Initiatives 'ITEP sector'. Sub-sectors; also known as 'purpose names', provide a greater level of granularity on sectoral expenditure and are available in CRS data reporting, for more information on OECD DAC sectors and purpose names, see here: http://www.oecd.org/dac/stats/purposecodessectorclassification.htm",
         "p2_section_title_1": "How is ODA from Islamic Development Bank spent by sector?",
         "p3_notes": "All ODA and OOF data shown in this profile is sourced from OECD tables DAC1, DAC2a, DAC2b, or the CRS. The ODA and OOF data used in this profile are disbursements (actual payments in each year from the donor) and is for the latest year available. Acronyms: ODA: Official Development Assistance. DAC: Development Assistance Committee; OECD: Organisation for Economic Co-operation and Development",
-        "p3_section_title_1": "How is ODA from Islamic Development Bank channelled",
-        "p3_section_title_2": "How is ODA from Islamic Development Bank targeted"
+        "p3_section_title_1": "How is ODA from Islamic Development Bank channelled?",
+        "p3_section_title_2": "How is ODA from Islamic Development Bank targeted?"
     },
     "United Nations Population Fund": {
         "m10_notes": "The channel of delivery refers to the first implementing partner of the ODA funds",
@@ -1765,8 +1765,8 @@
         "p2_notes": "The sectoral breakdown shown on this page includes the grouping of certain OECD DAC sectors into the aggregated Development Initiatives 'ITEP sector'. Sub-sectors; also known as 'purpose names', provide a greater level of granularity on sectoral expenditure and are available in CRS data reporting, for more information on OECD DAC sectors and purpose names, see here: http://www.oecd.org/dac/stats/purposecodessectorclassification.htm",
         "p2_section_title_1": "How is ODA from United Nations Population Fund spent by sector?",
         "p3_notes": "All ODA data shown in this profile is sourced from OECD tables DAC1, DAC2a or the CRS. The ODA data used in this profile are disbursements (actual payments in each year from the donor) and is for the latest year available. Acronyms: ODA: Official Development Assistance. DAC: Development Assistance Committee; OECD: Organisation for Economic Co-operation and Development",
-        "p3_section_title_1": "How is ODA from United Nations Population Fund channelled",
-        "p3_section_title_2": "How is ODA from United Nations Population Fund targeted"
+        "p3_section_title_1": "How is ODA from United Nations Population Fund channelled?",
+        "p3_section_title_2": "How is ODA from United Nations Population Fund targeted?"
     },
     "United Nations High Commissioner for Refugees": {
         "m10_notes": "The channel of delivery refers to the first implementing partner of the ODA funds",
@@ -1826,7 +1826,7 @@
         "p2_notes": "The sectoral breakdown shown on this page includes the grouping of certain OECD DAC sectors into the aggregated Development Initiatives 'ITEP sector'. Sub-sectors; also known as 'purpose names', provide a greater level of granularity on sectoral expenditure and are available in CRS data reporting, for more information on OECD DAC sectors and purpose names, see here: http://www.oecd.org/dac/stats/purposecodessectorclassification.htm",
         "p2_section_title_1": "How is ODA from United Nations High Commissioner for Refugees spent by sector?",
         "p3_notes": "All ODA data shown in this profile is sourced from OECD tables DAC1, DAC2a or the CRS. The ODA data used in this profile are disbursements (actual payments in each year from the donor) and is for the latest year available. Acronyms: ODA: Official Development Assistance. DAC: Development Assistance Committee; OECD: Organisation for Economic Co-operation and Development",
-        "p3_section_title_1": "How is ODA from United Nations High Commissioner for Refugees channelled",
-        "p3_section_title_2": "How is ODA from United Nations High Commissioner for Refugees targeted"
+        "p3_section_title_1": "How is ODA from United Nations High Commissioner for Refugees channelled?",
+        "p3_section_title_2": "How is ODA from United Nations High Commissioner for Refugees targeted?"
     }
 }

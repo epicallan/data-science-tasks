@@ -7,8 +7,8 @@ const addNewField = obj => Object.assign(obj, { m8a_axis_title: '2015, US$ milli
 const sortFieldsAlphabetically = obj =>
   R.keys(obj).sort().reduce((acc, val) => Object.assign(acc, { [val]: obj[val] }), {});
 
-
 const newJsonObject = R.compose(sortFieldsAlphabetically, addNewField);
+
 
 const main = () => {
   const newNarrative =
