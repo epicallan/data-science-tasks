@@ -4,7 +4,7 @@ import path from 'path';
 
 const persons = [];
 
-const filePathes = (name) => path.resolve(process.cwd(), `./src/house-holds/samples/${name}`);
+const filePathes = name => path.resolve(process.cwd(), `./src/house-holds/samples/${name}`);
 
 const sheetStream = fs.createReadStream(filePathes('sheet1.csv'));
 

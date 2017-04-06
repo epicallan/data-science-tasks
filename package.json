@@ -29,10 +29,14 @@
   },
   "homepage": "https://github.com/epicallan/data-scince-tasks#readme",
   "dependencies": {
+    "axios": "^0.16.0",
+    "chai": "^3.5.0",
     "fast-csv": "^2.1.0",
+    "fs-promise": "^2.0.2",
+    "ip-info": "0.0.1",
+    "iplocation": "^4.0.1",
     "ramda": "^0.22.1",
-    "rxjs-es": "^5.0.0-beta.11",
-    "chai": "^3.5.0"
+    "rxjs-es": "^5.0.0-beta.11"
   },
   "devDependencies": {
     "babel-core": "^6.14.0",
