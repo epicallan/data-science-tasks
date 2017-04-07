@@ -1,4 +1,5 @@
 date,pdf,country_name,country,ip
+date,pdf,country_name,country,ip
 2017-02-28 12:29:33,Assessment-of-Kenyas-preparedness-to-disasters-caused-by-natural-hazards-report.pdf,Kenya,KE,41.206.41.69
 2017-02-28 14:51:39,The-aid-bundle2.pdf,United Kingdom,GB,194.201.210.196
 2017-02-28 12:39:00,Blended-finance-Understanding-its-potential-for-Agenda-2030.pdf,United Kingdom,GB,193.128.202.132
@@ -829,8 +830,6 @@ date,pdf,country_name,country,ip
 2017-03-17 17:09:01,Forced_Displacement_Poverty_and_Financing_DI_Sept_2016.pdf,United Kingdom,GB,2.28.37.60
 2017-03-17 17:41:06,reaching-the-potential-of-IATI-data.pdf,Ethiopia,ET,197.156.73.153
 2017-03-17 18:11:40,Measuring-private-development-assistance.pdf,Kenya,KE,197.237.107.171
-2017-03-17 19:04:02,Getting-poverty-to-zero.pdf,,,185.26.183.65
-2017-03-17 19:04:06,Getting-poverty-to-zero.pdf,,,185.26.183.65
 2017-03-17 20:28:23,Investments-to-End-Poverty-full-report.pdf,United States,US,128.239.186.44
 2017-03-17 20:48:23,reaching-the-potential-of-IATI-data.pdf,United States,US,165.65.103.117
 2017-03-18 01:52:10,Harnessing-All-Resources-To-End-Poverty212.pdf,Pakistan,PK,182.188.226.88
@@ -1037,7 +1036,6 @@ date,pdf,country_name,country,ip
 2017-03-23 10:07:43,Development-Initiatives-Climate-Finance-report.pdf,Germany,DE,62.157.53.10
 2017-03-23 10:04:45,Overview.pdf,Philippines,PH,122.52.91.178
 2017-03-23 15:32:17,Is-Uganda-ready-to-implement-Agenda-20301.pdf,Ethiopia,ET,213.55.79.43
-2017-03-23 11:18:16,Financing-for-development-Final-report.pdf,,,82.145.219.159
 2017-03-23 12:00:57,Measuring-private-development-assistance1.pdf,United Kingdom,GB,86.134.62.2
 2017-03-23 12:43:22,an-introduction-to-the-International-Aid-Transparency-Initiative-IATI-for-humanitarian-actors.pdf,Tanzania,TZ,197.250.102.175
 2017-03-23 15:59:08,Implementing-and-monitoring-the-Grand-Bargain-commitment-on-transparency.pdf,United Kingdom,GB,82.17.55.43
@@ -1149,7 +1147,6 @@ date,pdf,country_name,country,ip
 2017-03-26 16:54:26,Harnessing-All-Resources-To-End-Poverty212.pdf,Ivory Coast,CI,41.189.54.101
 2017-03-26 17:39:41,citizen-generated-data-and-sustainable-development-evidence-from-case-studies-in-Kenya-and-Uganda.pdf,Ivory Coast,CI,41.189.54.101
 2017-03-26 17:43:32,citizen-generated-data-and-sustainable-development-evidence-from-case-studies-in-Kenya-and-Uganda.pdf,United Kingdom,GB,82.45.7.95
-2017-03-26 18:35:41,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,,,141.0.14.65
 2017-03-26 19:30:08,Towards-pro-poor-budgeting-Kenya%E2%80%99s-budget-allocations-Briefing-report-June-2016.pdf,Kenya,KE,196.97.178.108
 2017-03-26 19:38:07,Investments_to_End_Poverty_full_report.pdf,Norway,NO,95.34.57.165
 2017-03-27 05:49:27,South-Sudan-briefing1.pdf,Ghana,GH,41.79.97.5
@@ -1397,28 +1394,22 @@ date,pdf,country_name,country,ip
 2017-03-30 17:22:33,Uganda-Data-Ecosystem-Report-Part-One.pdf,United Kingdom,GB,82.35.144.140
 2017-03-30 17:34:19,reaching-the-potential-of-IATI-data.pdf,Netherlands,NL,77.166.16.235
 2017-03-30 18:04:18,P20-Initiative-baseline-report.pdf,France,FR,78.41.128.14
-2017-03-30 19:14:06,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,,,64.233.173.152
 2017-03-30 20:37:14,P20-Initiative-baseline-report.pdf,United States,US,71.4.253.161
 2017-03-30 21:27:29,OrganisationalStrategy-2016-2020.pdf,United Kingdom,GB,194.201.210.196
 2017-03-30 21:27:31,OrganisationalStrategy-2016-2020.pdf,United Kingdom,GB,194.201.210.196
 2017-03-30 21:27:34,OrganisationalStrategy-2016-2020.pdf,United Kingdom,GB,194.201.210.196
 2017-03-31 00:28:41,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,United States,US,70.160.243.229
 2017-03-31 06:38:35,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,Kenya,KE,41.191.193.1
-2017-03-30 19:12:26,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,,,82.145.222.67
-2017-03-31 05:52:59,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,,,66.249.93.210
 2017-03-29 13:19:32,reaching-the-potential-of-IATI-data.pdf,United States,US,76.26.150.55
 2017-03-31 05:49:21,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,Tanzania,TZ,196.43.230.94
-2017-03-31 05:52:59,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,,,66.249.93.210
 2017-03-29 22:35:33,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,South Africa,ZA,185.26.180.197
 2017-03-30 15:43:46,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,Kenya,KE,105.162.151.55
 2017-03-30 15:47:18,reaching-the-potential-of-IATI-data.pdf,United Kingdom,GB,82.28.207.120
 2017-03-30 15:47:18,ODA-loans-tracking-a-growing-source-of-development-financing.pdf,Belgium,BE,213.211.135.225
 2017-03-31 05:51:13,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,Kenya,KE,105.165.108.10
-2017-03-31 05:57:01,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,,,66.249.93.208
 2017-03-30 15:43:44,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,Kenya,KE,105.162.151.55
 2017-03-31 08:09:14,Assessment-of-Kenyas-preparedness-to-disasters-caused-by-natural-hazards_report_7th-February.pdf,Kenya,KE,197.237.156.68
 2017-03-30 15:49:46,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,Kenya,KE,197.237.70.235
-2017-03-30 15:50:03,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,,,82.145.221.181
 2017-03-30 15:52:40,Aiding-domestic-revenue-mobilisation_report.pdf,Belgium,BE,158.169.150.9
 2017-03-30 11:18:14,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,Kenya,KE,196.104.73.135
 2017-03-30 15:55:53,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,Kenya,KE,197.179.31.3
@@ -1435,18 +1426,15 @@ date,pdf,country_name,country,ip
 2017-03-30 12:24:53,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,Kenya,KE,105.230.157.209
 2017-03-31 09:06:49,an-introduction-to-the-International-Aid-Transparency-Initiative-IATI-for-humanitarian-actors.pdf,Denmark,DK,109.202.138.2
 2017-03-31 09:07:38,Implementing-and-monitoring-the-Grand-Bargain-commitment-on-transparency.pdf,Denmark,DK,109.202.138.2
-2017-03-29 14:43:53,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,,,82.145.220.136
 2017-03-30 15:55:52,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,Kenya,KE,197.179.31.3
 2017-03-30 11:35:14,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,Kenya,KE,105.61.25.222
 2017-03-30 15:59:26,Investments_to_End_Poverty_full_report.pdf,Italy,IT,2.35.121.58
 2017-03-30 00:15:42,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,Norway,NO,141.0.12.224
 2017-03-30 16:41:21,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,Kenya,KE,41.207.65.35
-2017-03-30 12:44:45,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,,,66.249.93.210
 2017-03-30 15:56:01,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,Kenya,KE,197.179.31.3
 2017-03-31 09:29:13,Development-Initiatives-Climate-Finance-report.pdf,United Kingdom,GB,86.188.145.146
 2017-03-31 09:29:15,Approaches-to-measuring-and-monitoring-South%E2%80%93South-cooperation.pdf,United Kingdom,GB,86.188.145.146
 2017-03-30 16:45:40,Blended-finance-Understanding-its-potential-for-Agenda-2030.pdf,United Kingdom,GB,212.36.56.114
-2017-03-30 05:36:02,Global-Humanitarian-Assistance-Report-2016.pdf,,,66.249.93.209
 2017-03-30 16:07:45,reaching-the-potential-of-IATI-data.pdf,Netherlands,NL,188.206.107.132
 2017-03-29 14:00:15,Implementing-and-monitoring-the-Grand-Bargain-commitment-on-transparency.pdf,Austria,AT,80.110.123.140
 2017-03-30 06:16:27,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,Kenya,KE,105.27.99.134
@@ -1455,7 +1443,6 @@ date,pdf,country_name,country,ip
 2017-03-31 09:55:07,P20-Initiative-baseline-report.pdf,United Kingdom,GB,86.188.145.146
 2017-03-30 06:27:42,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,United States,US,172.58.136.195
 2017-03-30 17:04:40,P20-Initiative-graphic-summary.pdf,Luxembourg,LU,158.169.150.6
-2017-03-30 13:18:15,privacy_and_data_policy.pdf,,,82.145.223.97
 2017-03-30 17:04:45,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,Kenya,KE,154.70.36.34
 2017-03-30 17:08:28,citizen-generated-data-and-sustainable-development-evidence-from-case-studies-in-Kenya-and-Uganda-executive-summary.pdf,Uganda,UG,41.191.77.182
 2017-03-30 06:43:59,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,Kenya,KE,196.96.72.205
@@ -1471,12 +1458,10 @@ date,pdf,country_name,country,ip
 2017-03-30 17:14:03,citizen-generated-data-and-sustainable-development-evidence-from-case-studies-in-Kenya-and-Uganda.pdf,Uganda,UG,41.191.77.182
 2017-03-30 06:31:30,P20-Initiative-baseline-report.pdf,Uganda,UG,212.88.103.130
 2017-03-30 17:02:59,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,Norway,NO,141.0.12.229
-2017-03-30 20:52:47,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,,,82.145.221.199
 2017-03-30 17:04:06,P20-Initiative-baseline-report.pdf,Luxembourg,LU,158.169.150.6
 2017-03-29 16:09:45,P20-Initiative-baseline-report.pdf,United Kingdom,GB,217.155.39.159
 2017-03-30 06:43:04,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,Kenya,KE,196.96.72.205
 2017-03-30 13:32:05,Is-Uganda-ready-to-implement-Agenda-20301.pdf,Uganda,UG,197.239.1.60
-2017-03-28 20:37:41,Engagement-Partnerships-Manager.pdf,,,141.0.14.206
 2017-03-28 20:34:40,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,Kenya,KE,197.237.200.16
 2017-03-31 11:14:08,South-Africas-development-cooperation1.pdf,United Kingdom,GB,185.22.224.96
 2017-03-31 11:37:49,Counting-the-poor11.pdf,United States,US,70.40.196.141
@@ -1484,14 +1469,11 @@ date,pdf,country_name,country,ip
 2017-03-31 11:57:16,P20-Initiative-graphic-summary.pdf,United Kingdom,GB,135.196.109.100
 2017-03-31 12:28:03,Implementing-and-monitoring-the-Grand-Bargain-commitment-on-transparency.pdf,Switzerland,CH,193.247.39.154
 2017-03-31 12:29:39,citizen-generated-data-and-sustainable-development-evidence-from-case-studies-in-Kenya-and-Uganda.pdf,Kenya,KE,197.237.215.139
-2017-03-30 19:16:49,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,,,107.167.105.34
 2017-03-29 22:21:25,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,Norway,NO,141.0.13.146
-2017-03-31 05:54:46,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,,,66.249.93.209
 2017-03-30 11:20:37,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,Canada,CA,192.99.1.145
 2017-03-30 11:15:39,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,Canada,CA,192.99.1.145
 2017-03-30 11:18:41,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,Kenya,KE,105.160.139.97
 2017-03-31 06:05:07,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,Kenya,KE,196.101.215.196
-2017-03-30 15:49:52,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,,,82.145.222.127
 2017-03-30 19:28:33,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,Kenya,KE,41.212.73.94
 2017-03-30 15:53:48,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,Norway,NO,141.0.12.54
 2017-03-30 15:59:59,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,Uganda,UG,196.0.27.42
@@ -1508,14 +1490,11 @@ date,pdf,country_name,country,ip
 2017-03-30 16:23:45,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,Kenya,KE,212.49.65.25
 2017-03-31 06:47:49,citizen-generated-data-and-sustainable-development-evidence-from-case-studies-in-Kenya-and-Uganda-executive-summary.pdf,Uganda,UG,212.88.118.190
 2017-03-30 20:34:10,P20-Initiative-baseline-report.pdf,United Kingdom,GB,82.13.219.40
-2017-03-30 16:28:30,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,,,82.145.223.123
 2017-03-30 12:32:05,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,Kenya,KE,197.237.228.52
-2017-03-30 05:23:42,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,,,66.249.93.209
 2017-03-30 12:24:31,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,Kenya,KE,105.230.157.209
 2017-03-30 12:44:38,Investments_to_End_Poverty_full_report.pdf,United States,US,66.249.85.31
 2017-03-30 16:38:57,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,Norway,NO,141.0.13.170
 2017-03-30 12:53:46,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,Zambia,ZM,41.60.237.136
-2017-03-30 05:33:45,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,,,82.145.221.221
 2017-03-31 07:04:43,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,Kenya,KE,41.89.57.2
 2017-03-30 16:49:18,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,Kenya,KE,197.232.4.149
 2017-03-30 13:04:33,an-introduction-to-the-International-Aid-Transparency-Initiative-IATI-for-humanitarian-actors.pdf,Denmark,DK,91.198.204.122
@@ -1548,26 +1527,21 @@ date,pdf,country_name,country,ip
 2017-03-28 21:27:10,Implementing-and-monitoring-the-Grand-Bargain-commitment-on-transparency.pdf,United States,US,169.253.194.1
 2017-03-28 19:24:34,Financing-for-development-Final-report.pdf,Nigeria,NG,197.210.25.250
 2017-03-28 19:56:19,P20-Initiative-graphic-summary.pdf,Kenya,KE,197.237.200.16
-2017-03-30 18:33:05,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,,,82.145.220.178
 2017-03-30 18:35:33,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,Kenya,KE,62.24.98.150
-2017-03-30 18:53:38,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,,,82.145.222.169
 2017-03-30 19:02:07,The-role-of-blended-finance-in-the-2030-Agenda-Discussion-paper-July-2016.pdf,United States,US,138.220.124.157
 2017-03-30 19:10:32,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,Kenya,KE,197.179.139.243
-2017-03-30 19:09:30,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,,,82.145.223.43
 2017-03-30 19:08:56,JUD-scoping-study-final1.pdf,Greece,GR,85.75.107.150
 2017-03-30 21:35:46,Blended-finance-Understanding-its-potential-for-Agenda-2030.pdf,United Kingdom,GB,80.5.212.11
 2017-03-30 22:59:52,an-introduction-to-the-International-Aid-Transparency-Initiative-IATI-for-humanitarian-actors.pdf,United States,US,108.18.4.208
 2017-03-31 00:47:07,an-introduction-to-the-International-Aid-Transparency-Initiative-IATI-for-humanitarian-actors.pdf,Australia,AU,203.6.176.20
 2017-03-31 01:19:22,an-introduction-to-the-International-Aid-Transparency-Initiative-IATI-for-humanitarian-actors.pdf,Australia,AU,203.6.176.21
 2017-03-31 03:27:21,Private-development-assistance-key-facts-and-global-estimates.pdf,Canada,CA,96.23.105.61
-2017-03-31 03:30:30,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,,,66.249.93.210
 2017-03-31 03:22:19,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,Kenya,KE,105.50.184.50
 2017-03-31 03:39:20,Investments-to-End-Poverty-Report-2015_online.pdf,Canada,CA,96.23.105.61
 2017-03-31 03:17:04,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,Kenya,KE,105.164.66.222
 2017-03-31 04:26:43,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,Mauritius,MU,41.72.205.198
 2017-03-31 05:09:08,citizen-generated-data-and-sustainable-development-evidence-from-case-studies-in-Kenya-and-Uganda.pdf,Uganda,UG,154.72.199.50
 2017-03-31 05:09:04,citizen-generated-data-and-sustainable-development-evidence-from-case-studies-in-Kenya-and-Uganda-executive-summary.pdf,Uganda,UG,154.72.199.50
-2017-03-31 05:27:12,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,,,82.145.223.112
 2017-03-31 05:31:54,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,Kenya,KE,196.101.233.66
 2017-03-28 12:32:30,P20-Initiative-baseline-report.pdf,United Kingdom,GB,83.244.237.92
 2017-03-28 13:28:26,P20-Initiative-baseline-report.pdf,Norway,NO,195.69.50.235
@@ -1591,9 +1565,7 @@ date,pdf,country_name,country,ip
 2017-03-28 16:36:30,citizen-generated-data-and-sustainable-development-evidence-from-case-studies-in-Kenya-and-Uganda.pdf,Ghana,GH,41.66.244.102
 2017-03-31 10:14:16,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,Kenya,KE,196.223.161.62
 2017-03-28 16:52:48,Investments_to_End_Poverty_full_report.pdf,Zimbabwe,ZW,41.216.125.58
-2017-03-31 10:40:53,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,,,82.145.223.46
 2017-03-31 10:44:33,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,Kenya,KE,41.215.48.162
-2017-03-31 10:58:39,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,,,82.145.222.116
 2017-03-31 11:10:59,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,Kenya,KE,196.43.218.26
 2017-03-31 11:06:30,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,Kenya,KE,41.222.13.181
 2017-03-31 11:25:45,DFIDs-aid-spending-for-nutrition-2013.pdf,France,FR,176.160.140.159
@@ -1656,7 +1628,6 @@ date,pdf,country_name,country,ip
 2017-03-30 14:03:40,P20-Initiative-baseline-report.pdf,Belgium,BE,158.169.150.4
 2017-03-30 14:14:06,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,Kenya,KE,196.100.193.39
 2017-03-30 14:24:07,P20-Initiative-baseline-report.pdf,Belgium,BE,158.169.150.9
-2017-03-30 14:21:11,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,,,82.145.220.151
 2017-03-30 14:49:43,P20-Initiative-graphic-summary.pdf,Belgium,BE,158.169.150.4
 2017-03-30 14:49:47,P20-Initiative-graphic-summary.pdf,Belgium,BE,158.169.150.4
 2017-03-30 14:55:05,P20-Initiative-graphic-summary.pdf,Belgium,BE,158.169.40.8
@@ -1669,17 +1640,14 @@ date,pdf,country_name,country,ip
 2017-03-30 15:17:19,P20-Initiative-baseline-report.pdf,Brazil,BR,177.32.94.26
 2017-03-30 15:18:24,Aid-spending-by-Development-Assistance-Committee-donors-in-2015.pdf,Switzerland,CH,213.200.231.147
 2017-03-30 15:20:11,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,Kenya,KE,197.220.118.86
-2017-03-30 15:26:53,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,,,82.145.221.51
 2017-03-30 15:24:48,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,Kenya,KE,41.89.10.241
 2017-03-30 15:32:17,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,Kenya,KE,196.207.18.150
-2017-03-30 15:35:50,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,,,82.145.223.93
 2017-03-30 15:35:34,P20-Initiative-baseline-report.pdf,United States,US,71.4.253.210
 2017-03-30 15:35:22,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,Kenya,KE,197.254.103.86
 2017-03-30 15:38:28,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,,UK,82.145.220.39
 2017-03-30 15:34:48,P20-Initiative-graphic-summary.pdf,United States,US,71.4.253.210
 2017-03-30 15:33:08,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,Kenya,KE,41.139.162.22
 2017-03-30 17:34:36,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,United Kingdom,UK,82.145.221.204
-2017-03-30 17:34:29,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,,,66.249.93.209
 2017-03-30 17:30:52,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,Tanzania,TZ,197.250.102.245
 2017-03-30 17:54:03,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,Norway,NO,141.0.13.1
 2017-03-30 17:50:52,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,Kenya,KE,41.89.4.30
@@ -1726,7 +1694,6 @@ date,pdf,country_name,country,ip
 2017-03-28 23:09:06,P20-Initiative-baseline-report.pdf,Iceland,IS,213.220.76.5
 2017-03-29 05:26:22,P20-Initiative-baseline-report.pdf,Netherlands,NL,80.114.131.106
 2017-03-29 06:13:52,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,Kenya,KE,197.237.90.153
-2017-03-29 09:04:50,Assessment-of-Kenyas-preparedness-to-disasters-caused-by-natural-hazards_report_7th-February.pdf,,,66.249.93.31
 2017-03-29 09:06:30,P20-Initiative-baseline-report.pdf,Nepal,NP,36.253.244.107
 2017-03-29 09:07:14,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,Kenya,KE,41.203.219.198
 2017-03-29 10:15:34,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,Rwanda,RW,197.243.48.20
@@ -1743,7 +1710,7 @@ date,pdf,country_name,country,ip
 2017-03-30 07:55:10,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,Kenya,KE,197.232.26.17
 2017-03-30 08:24:38,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,Kenya,KE,196.216.72.210
 2017-03-30 09:30:40,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,Kenya,KE,105.62.78.142
-2017-03-30 09:26:00,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf, United Kingdom,GB,82.145.222.53
+2017-03-30 09:26:00,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,United Kingdom,GB,82.145.222.53
 2017-03-30 09:49:52,P20-Initiative-baseline-report.pdf,Belgium,BE,158.169.150.4
 2017-03-30 11:07:51,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,Kenya,KE,41.220.119.186
 2017-03-30 14:02:22,P20-Initiative-baseline-report.pdf,Belgium,BE,158.169.150.10
@@ -1753,3 +1720,37 @@ date,pdf,country_name,country,ip
 2017-03-30 14:47:58,reaching-the-potential-of-IATI-data.pdf,United Kingdom,GB,212.188.195.66
 2017-03-30 14:48:22,P20-Initiative-graphic-summary.pdf,United Kingdom,GB,81.156.106.195
 2017-03-30 18:15:21,citizen-generated-data-and-sustainable-development-evidence-from-case-studies-in-Kenya-and-Uganda-executive-summary.pdf,Uganda,UG,154.73.15.45
+2017-03-26 18:35:41,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,Iceland,IS,141.0.14.65
+2017-03-17 19:04:02,Getting-poverty-to-zero.pdf,United States,US,185.26.183.65
+2017-03-23 11:18:16,Financing-for-development-Final-report.pdf,United Kingdom,GB,82.145.219.159
+2017-03-30 19:14:06,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,United States,US,64.233.173.152
+2017-03-30 12:44:45,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,United States,US,66.249.93.210
+2017-03-30 19:16:49,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,United States,US,107.167.105.34
+2017-03-31 05:57:01,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,United States,US,66.249.93.208
+2017-03-30 05:23:42,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,United States,US,66.249.93.209
+2017-03-30 05:36:02,Global-Humanitarian-Assistance-Report-2016.pdf,United States,US,66.249.93.209
+2017-03-30 15:49:52,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,Iceland,IS,82.145.222.127
+2017-03-30 14:21:11,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,Iceland,IS,82.145.220.151
+2017-03-31 05:27:12,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,Iceland,IS,82.145.223.112
+2017-03-31 10:58:39,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,Iceland,IS,82.145.222.116
+2017-03-30 18:53:38,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,Iceland,IS,82.145.222.169
+2017-03-31 03:30:30,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,United States,US,66.249.93.210
+2017-03-30 13:18:15,privacy_and_data_policy.pdf,Iceland,IS,82.145.223.97
+2017-03-29 09:04:50,Assessment-of-Kenyas-preparedness-to-disasters-caused-by-natural-hazards_report_7th-February.pdf,United States,US,66.249.93.31
+2017-03-30 16:28:30,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,Iceland,IS,82.145.223.123
+2017-03-30 18:33:05,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,Iceland,IS,82.145.220.178
+2017-03-30 19:09:30,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,Iceland,IS,82.145.223.43
+2017-03-17 19:04:06,Getting-poverty-to-zero.pdf,United States,US,185.26.183.65
+2017-03-31 10:40:53,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,Iceland,IS,82.145.223.46
+2017-03-30 17:34:29,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,United States,US,66.249.93.209
+2017-03-30 15:50:03,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,Iceland,IS,82.145.221.181
+2017-03-31 05:52:59,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,United States,US,66.249.93.210
+2017-03-30 19:12:26,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,Iceland,IS,82.145.222.67
+2017-03-31 05:54:46,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,United States,US,66.249.93.209
+2017-03-30 15:26:53,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,Iceland,IS,82.145.221.51
+2017-03-30 15:35:50,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,Iceland,IS,82.145.223.93
+2017-03-30 20:52:47,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,Iceland,IS,82.145.221.199
+2017-03-30 05:33:45,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,Iceland,IS,82.145.221.221
+2017-03-31 05:52:59,A-summary-of-Kenya%E2%80%99s-budget-2017-18-from-a-pro-poor-perspective.pdf,United States,US,66.249.93.210
+2017-03-29 14:43:53,analysis-of-Kenyas-budget-2017-18-what%E2%80%99s-in-it-for-the-poorest-people.pdf,Iceland,IS,82.145.220.136
+2017-03-28 20:37:41,Engagement-Partnerships-Manager.pdf,Iceland,IS,141.0.14.206
