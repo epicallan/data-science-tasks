@@ -1,0 +1,4481 @@
+[{
+  "location": {
+    "lat": -1.2664762,
+    "lng": 36.748648
+  },
+  "name": "CO-op Bank ATM",
+  "vicinity": "Hinga Road, Nairobi City",
+  "type": ["atm", "bank", "finance", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2852935,
+    "lng": 36.738072
+  },
+  "name": "Sidian Bank",
+  "vicinity": "Naivasha Road, Kawangware",
+  "type": ["atm", "finance", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.290666,
+    "lng": 36.77015600000001
+  },
+  "name": "PesaPoint ATM Valley Arcade",
+  "vicinity": "Valley Arcade Shopping Centre, Gitanga Road, Lavington, Nairobi",
+  "type": ["atm", "finance", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.299118,
+    "lng": 36.759524
+  },
+  "name": "PesaPoint ATM Dagoretti Corner",
+  "vicinity": "Total Petrol Station, Dagoretti Corner, Ngong Road, Nairobi",
+  "type": ["atm", "finance", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2887188,
+    "lng": 36.7522484
+  },
+  "name": "Kawangware Barclays Bank ATM",
+  "vicinity": "Nairobi",
+  "type": ["atm", "finance", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.323453,
+    "lng": 36.70765
+  },
+  "name": "PesaPoint ATM KCB - Karen",
+  "vicinity": "Karen Nakumatt, Ngong Road",
+  "type": ["atm", "finance", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.264556,
+    "lng": 36.749232
+  },
+  "name": "PesaPoint ATM Mountain View",
+  "vicinity": "Total Mountain View, Wayaki Way, Westlands, Nairobi",
+  "type": ["atm", "finance", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.323284,
+    "lng": 36.70768700000001
+  },
+  "name": "PesaPoint ATM DTK - Karen",
+  "vicinity": "Karen Nakumatt, Ngong Road",
+  "type": ["atm", "finance", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.298104,
+    "lng": 36.762388
+  },
+  "name": "PesaPoint ATM KCB - Junction",
+  "vicinity": "Ngong Road, Nairobi",
+  "type": ["atm", "finance", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.288635,
+    "lng": 36.74339610000001
+  },
+  "name": "PesaPoint ATM KCB - Kawangware",
+  "vicinity": "Naivasha Road, Nairobi",
+  "type": ["atm", "finance", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.298324,
+    "lng": 36.762447
+  },
+  "name": "PesaPoint ATM NIC - Junction",
+  "vicinity": "Ngong Road, Nairobi",
+  "type": ["atm", "finance", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.323756,
+    "lng": 36.707897
+  },
+  "name": "PesaPoint ATM Karen",
+  "vicinity": "Karen Nakumatt, Langata Road",
+  "type": ["atm", "finance", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3117524,
+    "lng": 36.6985978
+  },
+  "name": "Co-op Bank ATM - Karen Crossroads Branch",
+  "vicinity": "Nakumatt Karen, Crossroad, Nairobi",
+  "type": ["atm", "finance", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3223746,
+    "lng": 36.70740129999999
+  },
+  "name": "Co-op Bank ATM - Langata Branch",
+  "vicinity": "Langata Road, Nairobi",
+  "type": ["atm", "finance", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.323745,
+    "lng": 36.707832
+  },
+  "name": "KCB ATM - Karen",
+  "vicinity": "Ngong Road, Nairobi",
+  "type": ["atm", "finance", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.324158,
+    "lng": 36.707642
+  },
+  "name": "Standard Chartered Bank ATM",
+  "vicinity": "Ngong Road, Nairobi",
+  "type": ["atm", "bank", "finance", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3081871,
+    "lng": 36.7331316
+  },
+  "name": "Co-op Bank ATM - Nairobi Business Centre Branch",
+  "vicinity": "China Centre, Ngong Road, Nairobi",
+  "type": ["atm", "finance", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2821365,
+    "lng": 36.7369926
+  },
+  "name": "Co-op Bank ATM - Kawangware Branch",
+  "vicinity": "Muhu Holdings House, Naivasha Road, Nairobi",
+  "type": ["atm", "finance", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.287169,
+    "lng": 36.741553
+  },
+  "name": "KCB ATM - Kawangware",
+  "vicinity": "Naivasha Road, Nairobi",
+  "type": ["atm", "finance", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.269401,
+    "lng": 36.746569
+  },
+  "name": "PesaPoint ATM KCB - Kangema",
+  "vicinity": "Nairobi",
+  "type": ["atm", "finance", "point_of_interest", "establishment"]
+}][{
+  "location": {
+    "lat": -1.3233862,
+    "lng": 36.7077684
+  },
+  "name": "Dorman's",
+  "vicinity": "Langata, Nairobi",
+  "type": ["cafe", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2720619,
+    "lng": 36.74515170000001
+  },
+  "name": "Ugali Matumbo",
+  "vicinity": "Estate, Nairobi City",
+  "type": ["cafe", "food", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2982497,
+    "lng": 36.7621475
+  },
+  "name": "Java House - Junction Mall",
+  "vicinity": "P. O. Box 21533, Nairobi",
+  "type": ["cafe", "restaurant", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2906295,
+    "lng": 36.7702062
+  },
+  "name": "Java House Valley Arcade",
+  "vicinity": "Gitanga Road, Nairobi",
+  "type": ["cafe", "restaurant", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2966515,
+    "lng": 36.7581189
+  },
+  "name": "Valencia Gardens",
+  "vicinity": "Riara Road, Nairobi",
+  "type": ["cafe", "night_club", "bar", "restaurant", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.345554,
+    "lng": 36.71375
+  },
+  "name": "Tamambo Karen Blixen",
+  "vicinity": "Karen Road, Nairobi",
+  "type": ["cafe", "restaurant", "food", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3010519,
+    "lng": 36.7806551
+  },
+  "name": "Java House Adams Arcade",
+  "vicinity": "Ngong Road, Adams Arcade Building, Nairobi",
+  "type": ["cafe", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3199482,
+    "lng": 36.7057474
+  },
+  "name": "Tin Roof Cafe",
+  "vicinity": "Dagoretti Road, Nairobi",
+  "type": ["cafe", "food", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2877817,
+    "lng": 36.7412041
+  },
+  "name": "Snack Inn Restaurant",
+  "vicinity": "Besides Dagoretti Empowerment Centre, Naivasha Road, Nairobi",
+  "type": ["cafe", "restaurant", "food", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3009607,
+    "lng": 36.780666
+  },
+  "name": "Java House Adams",
+  "vicinity": "P. O. Box 21533, Nairobi",
+  "type": ["cafe", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3195825,
+    "lng": 36.7041508
+  },
+  "name": "Artcaffe Hub",
+  "vicinity": "Nairobi",
+  "type": ["cafe", "food", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.323427,
+    "lng": 36.707799
+  },
+  "name": "Artcaffe Karen",
+  "vicinity": "Karen Crossroads Mall, 69671 - 00400, Nairobi",
+  "type": ["cafe", "food", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3290843,
+    "lng": 36.6946072
+  },
+  "name": "Zucchini The Hub Karen",
+  "vicinity": "Karen Road, Nairobi",
+  "type": ["cafe", "food", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2939164,
+    "lng": 36.7640948
+  },
+  "name": "PATRICK SITATI",
+  "vicinity": "Kisii Next to kisii general hospital hospital road KISII, Kenya. Msanduku, Nairobi City",
+  "type": ["cafe", "food", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2985397,
+    "lng": 36.7619353
+  },
+  "name": "Artcaffe Junction",
+  "vicinity": "The Junction Mall, Ngong Rd, 69671 - 00400, Nairobi",
+  "type": ["cafe", "bakery", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2906952,
+    "lng": 36.7674141
+  },
+  "name": "Hook'd",
+  "vicinity": "Hendred Road, Nairobi",
+  "type": ["cafe", "food", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3343401,
+    "lng": 36.76582490000001
+  },
+  "name": "Vava Coffee",
+  "vicinity": "Murishu Road, Nairobi",
+  "type": ["cafe", "food", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2807537,
+    "lng": 36.7692392
+  },
+  "name": "vida e caffe, St. Austins",
+  "vicinity": "Kolloh Rd, Nairobi",
+  "type": ["cafe", "food", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3586657,
+    "lng": 36.7464685
+  },
+  "name": "Tin Roof Cafe",
+  "vicinity": "Langata South Road, Nairobi",
+  "type": ["cafe", "food", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.279961,
+    "lng": 36.769955
+  },
+  "name": "Artcaffe Lavington",
+  "vicinity": "Lavington Mall, Lavington, 69671 - 00400, Nairobi",
+  "type": ["cafe", "food", "point_of_interest", "establishment"]
+}][{
+  "location": {
+    "lat": -1.2593201,
+    "lng": 36.77987319999999
+  },
+  "name": "Oil Libya",
+  "vicinity": "Next To ABC House, Waiyaki Way, Nairobi",
+  "type": ["gas_station", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.260746,
+    "lng": 36.72330599999999
+  },
+  "name": "Kenol Waiyaki Way",
+  "vicinity": "Waiyaki Way, Kabete",
+  "type": ["gas_station", "car_repair", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.31732,
+    "lng": 36.718969
+  },
+  "name": "Oilibya Forest Edge",
+  "vicinity": "Nova Communications, Karen Road, P. O Box No. 64900, Nairobi",
+  "type": ["gas_station", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3225495,
+    "lng": 36.7070667
+  },
+  "name": "Petrocity Petrol station",
+  "vicinity": "At Karen Round About, Ngong Road, Nairobi",
+  "type": ["gas_station", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.328819,
+    "lng": 36.71817899999999
+  },
+  "name": "G-gas shop",
+  "vicinity": "Karen Plains Arcade, Karen Plains Road, Nairobi",
+  "type": ["gas_station", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.334142,
+    "lng": 36.672943
+  },
+  "name": "Gulf Energy - Ngong Bubul",
+  "vicinity": "Ngong Road, Next to Bul Bul Bus stop, Ngong",
+  "type": ["gas_station", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2576928,
+    "lng": 36.70102
+  },
+  "name": "Total 87 Uthiru",
+  "vicinity": "A 104",
+  "type": ["gas_station", "car_repair", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.255635,
+    "lng": 36.694421
+  },
+  "name": "National Oil Corporation-Midrand",
+  "vicinity": "Waiyaki Way, Kikuyu",
+  "type": ["gas_station", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2646507,
+    "lng": 36.74076459999999
+  },
+  "name": "Shell",
+  "vicinity": "Waiyaki Way, Nairobi",
+  "type": ["gas_station", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2989975,
+    "lng": 36.7597067
+  },
+  "name": "Total",
+  "vicinity": "Ngong Road, Nairobi",
+  "type": ["gas_station", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3489601,
+    "lng": 36.6606688
+  },
+  "name": "Gas Point Depot",
+  "vicinity": "Ngong Road, Ngong",
+  "type": ["gas_station", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.290042,
+    "lng": 36.769891
+  },
+  "name": "Kobil Valley Arcade",
+  "vicinity": "Gitanga Road, Kilimani",
+  "type": ["gas_station", "pharmacy", "bank", "health", "restaurant", "food", "finance", "car_repair", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.342468,
+    "lng": 36.762249
+  },
+  "name": "Kenol Langata",
+  "vicinity": "Langata Road, Langata",
+  "type": ["gas_station", "restaurant", "food", "car_repair", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.342642,
+    "lng": 36.764459
+  },
+  "name": "Oil Libya",
+  "vicinity": "Langata Road, Nairobi",
+  "type": ["gas_station", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3006168,
+    "lng": 36.77971429999999
+  },
+  "name": "Shell Petrol Station - Adams Arcade",
+  "vicinity": "Ngong Road, Nairobi",
+  "type": ["gas_station", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2249179,
+    "lng": 36.7059328
+  },
+  "name": "Total Lower Kabete",
+  "vicinity": "Kenya",
+  "type": ["gas_station", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.299949,
+    "lng": 36.78994
+  },
+  "name": "Oilibya Ngong Road",
+  "vicinity": "Pisab Ltd, Ngong Road, P. O Box No. 64900, Nairobi",
+  "type": ["gas_station", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2925394,
+    "lng": 36.7868584
+  },
+  "name": "Hashi Energy Service",
+  "vicinity": "Kilimani, Yaya, Argwings Kodhek Road, Nairobi",
+  "type": ["gas_station", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2927479,
+    "lng": 36.787326
+  },
+  "name": "M-Pesa Kobil",
+  "vicinity": "DHL Express Yaya Center, Nairobi",
+  "type": ["gas_station", "finance", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.259345,
+    "lng": 36.779909
+  },
+  "name": "Oilibya Waiyaki Way",
+  "vicinity": "Freeway Service Station Ltd, Waiyaki Way, P. O Box No. 64900, Nairobi",
+  "type": ["gas_station", "point_of_interest", "establishment"]
+}][{
+  "location": {
+    "lat": -1.2920659,
+    "lng": 36.82194619999999
+  },
+  "name": "Nairobi",
+  "vicinity": "Nairobi",
+  "type": ["locality", "political"]
+}, {
+  "location": {
+    "lat": -1.3218413,
+    "lng": 36.7168038
+  },
+  "name": "Bush House & Camp",
+  "vicinity": "silanga Avenue, Fair Acres Road Off Karen/Langata Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3501996,
+    "lng": 36.7594509
+  },
+  "name": "Hotel Troy",
+  "vicinity": "73 Magadi Road, Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3608353,
+    "lng": 36.7428212
+  },
+  "name": "Royale Hotel Karen",
+  "vicinity": "Ndalat Rd, off Langata South Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2895824,
+    "lng": 36.7831498
+  },
+  "name": "Godials Bed & Breakfast",
+  "vicinity": "Lenana Rd, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2936244,
+    "lng": 36.7952069
+  },
+  "name": "Best Western Premier Nairobi",
+  "vicinity": "Ground Floor, Best Western Premier Building, Argwings Kodhek Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3425279,
+    "lng": 36.7055201
+  },
+  "name": "Hemingways Nairobi",
+  "vicinity": "Mbagathi Ridge, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356063,
+    "lng": 36.7618492
+  },
+  "name": "Park Place Hotel Nairobi",
+  "vicinity": "Langata, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356322,
+    "lng": 36.6529146
+  },
+  "name": "PEC Guest House",
+  "vicinity": "Ngong Hills, Ngong-Kibiku Road, Ngong",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3380469,
+    "lng": 36.72475960000001
+  },
+  "name": "Schumacher's",
+  "vicinity": "Karen \"C\", Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2871455,
+    "lng": 36.7476395
+  },
+  "name": "Heshima Supermarket",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2903245,
+    "lng": 36.7495532
+  },
+  "name": "Furaha Self Selection",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3763639,
+    "lng": 36.74431689999999
+  },
+  "name": "Giraffe Centre",
+  "vicinity": "Duma Road, Nairobi",
+  "type": ["park", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864349,
+    "lng": 36.745263
+  },
+  "name": "Sokoni Arcade VCT",
+  "vicinity": "Nairobi City",
+  "type": ["health", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3640088,
+    "lng": 36.76445459999999
+  },
+  "name": "Longview Suites Hotel",
+  "vicinity": "Magadi Road, Karen, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3233862,
+    "lng": 36.7077684
+  },
+  "name": "Dorman's",
+  "vicinity": "Langata, Nairobi",
+  "type": ["cafe", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864403,
+    "lng": 36.7452228
+  },
+  "name": "Sokoni Arcade",
+  "vicinity": "Nairobi City",
+  "type": ["shopping_mall", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2873583,
+    "lng": 36.7225206
+  },
+  "name": "Brookline High School",
+  "vicinity": "Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.276157,
+    "lng": 36.7104238
+  },
+  "name": "Waithaka Riverside Secondary School",
+  "vicinity": "Queens Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2543366,
+    "lng": 36.68166099999999
+  },
+  "name": "Kikuyu",
+  "vicinity": "Kikuyu",
+  "type": ["locality", "political"]
+}][{
+  "location": {
+    "lat": -1.2920659,
+    "lng": 36.82194619999999
+  },
+  "name": "Nairobi",
+  "vicinity": "Nairobi",
+  "type": ["locality", "political"]
+}, {
+  "location": {
+    "lat": -1.3218413,
+    "lng": 36.7168038
+  },
+  "name": "Bush House & Camp",
+  "vicinity": "silanga Avenue, Fair Acres Road Off Karen/Langata Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3501996,
+    "lng": 36.7594509
+  },
+  "name": "Hotel Troy",
+  "vicinity": "73 Magadi Road, Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3608353,
+    "lng": 36.7428212
+  },
+  "name": "Royale Hotel Karen",
+  "vicinity": "Ndalat Rd, off Langata South Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2895824,
+    "lng": 36.7831498
+  },
+  "name": "Godials Bed & Breakfast",
+  "vicinity": "Lenana Rd, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2936244,
+    "lng": 36.7952069
+  },
+  "name": "Best Western Premier Nairobi",
+  "vicinity": "Ground Floor, Best Western Premier Building, Argwings Kodhek Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3425279,
+    "lng": 36.7055201
+  },
+  "name": "Hemingways Nairobi",
+  "vicinity": "Mbagathi Ridge, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356063,
+    "lng": 36.7618492
+  },
+  "name": "Park Place Hotel Nairobi",
+  "vicinity": "Langata, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356322,
+    "lng": 36.6529146
+  },
+  "name": "PEC Guest House",
+  "vicinity": "Ngong Hills, Ngong-Kibiku Road, Ngong",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3380469,
+    "lng": 36.72475960000001
+  },
+  "name": "Schumacher's",
+  "vicinity": "Karen \"C\", Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2871455,
+    "lng": 36.7476395
+  },
+  "name": "Heshima Supermarket",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2903245,
+    "lng": 36.7495532
+  },
+  "name": "Furaha Self Selection",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3763639,
+    "lng": 36.74431689999999
+  },
+  "name": "Giraffe Centre",
+  "vicinity": "Duma Road, Nairobi",
+  "type": ["park", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864349,
+    "lng": 36.745263
+  },
+  "name": "Sokoni Arcade VCT",
+  "vicinity": "Nairobi City",
+  "type": ["health", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3640088,
+    "lng": 36.76445459999999
+  },
+  "name": "Longview Suites Hotel",
+  "vicinity": "Magadi Road, Karen, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3233862,
+    "lng": 36.7077684
+  },
+  "name": "Dorman's",
+  "vicinity": "Langata, Nairobi",
+  "type": ["cafe", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864403,
+    "lng": 36.7452228
+  },
+  "name": "Sokoni Arcade",
+  "vicinity": "Nairobi City",
+  "type": ["shopping_mall", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2873583,
+    "lng": 36.7225206
+  },
+  "name": "Brookline High School",
+  "vicinity": "Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.276157,
+    "lng": 36.7104238
+  },
+  "name": "Waithaka Riverside Secondary School",
+  "vicinity": "Queens Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2543366,
+    "lng": 36.68166099999999
+  },
+  "name": "Kikuyu",
+  "vicinity": "Kikuyu",
+  "type": ["locality", "political"]
+}][{
+  "location": {
+    "lat": -1.2920659,
+    "lng": 36.82194619999999
+  },
+  "name": "Nairobi",
+  "vicinity": "Nairobi",
+  "type": ["locality", "political"]
+}, {
+  "location": {
+    "lat": -1.3218413,
+    "lng": 36.7168038
+  },
+  "name": "Bush House & Camp",
+  "vicinity": "silanga Avenue, Fair Acres Road Off Karen/Langata Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3501996,
+    "lng": 36.7594509
+  },
+  "name": "Hotel Troy",
+  "vicinity": "73 Magadi Road, Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3608353,
+    "lng": 36.7428212
+  },
+  "name": "Royale Hotel Karen",
+  "vicinity": "Ndalat Rd, off Langata South Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2895824,
+    "lng": 36.7831498
+  },
+  "name": "Godials Bed & Breakfast",
+  "vicinity": "Lenana Rd, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2936244,
+    "lng": 36.7952069
+  },
+  "name": "Best Western Premier Nairobi",
+  "vicinity": "Ground Floor, Best Western Premier Building, Argwings Kodhek Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3425279,
+    "lng": 36.7055201
+  },
+  "name": "Hemingways Nairobi",
+  "vicinity": "Mbagathi Ridge, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356063,
+    "lng": 36.7618492
+  },
+  "name": "Park Place Hotel Nairobi",
+  "vicinity": "Langata, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356322,
+    "lng": 36.6529146
+  },
+  "name": "PEC Guest House",
+  "vicinity": "Ngong Hills, Ngong-Kibiku Road, Ngong",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3380469,
+    "lng": 36.72475960000001
+  },
+  "name": "Schumacher's",
+  "vicinity": "Karen \"C\", Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2871455,
+    "lng": 36.7476395
+  },
+  "name": "Heshima Supermarket",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2903245,
+    "lng": 36.7495532
+  },
+  "name": "Furaha Self Selection",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3763639,
+    "lng": 36.74431689999999
+  },
+  "name": "Giraffe Centre",
+  "vicinity": "Duma Road, Nairobi",
+  "type": ["park", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864349,
+    "lng": 36.745263
+  },
+  "name": "Sokoni Arcade VCT",
+  "vicinity": "Nairobi City",
+  "type": ["health", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3640088,
+    "lng": 36.76445459999999
+  },
+  "name": "Longview Suites Hotel",
+  "vicinity": "Magadi Road, Karen, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3233862,
+    "lng": 36.7077684
+  },
+  "name": "Dorman's",
+  "vicinity": "Langata, Nairobi",
+  "type": ["cafe", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864403,
+    "lng": 36.7452228
+  },
+  "name": "Sokoni Arcade",
+  "vicinity": "Nairobi City",
+  "type": ["shopping_mall", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2873583,
+    "lng": 36.7225206
+  },
+  "name": "Brookline High School",
+  "vicinity": "Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.276157,
+    "lng": 36.7104238
+  },
+  "name": "Waithaka Riverside Secondary School",
+  "vicinity": "Queens Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2543366,
+    "lng": 36.68166099999999
+  },
+  "name": "Kikuyu",
+  "vicinity": "Kikuyu",
+  "type": ["locality", "political"]
+}][{
+  "location": {
+    "lat": -1.2920659,
+    "lng": 36.82194619999999
+  },
+  "name": "Nairobi",
+  "vicinity": "Nairobi",
+  "type": ["locality", "political"]
+}, {
+  "location": {
+    "lat": -1.3218413,
+    "lng": 36.7168038
+  },
+  "name": "Bush House & Camp",
+  "vicinity": "silanga Avenue, Fair Acres Road Off Karen/Langata Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3501996,
+    "lng": 36.7594509
+  },
+  "name": "Hotel Troy",
+  "vicinity": "73 Magadi Road, Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3608353,
+    "lng": 36.7428212
+  },
+  "name": "Royale Hotel Karen",
+  "vicinity": "Ndalat Rd, off Langata South Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2895824,
+    "lng": 36.7831498
+  },
+  "name": "Godials Bed & Breakfast",
+  "vicinity": "Lenana Rd, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2936244,
+    "lng": 36.7952069
+  },
+  "name": "Best Western Premier Nairobi",
+  "vicinity": "Ground Floor, Best Western Premier Building, Argwings Kodhek Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3425279,
+    "lng": 36.7055201
+  },
+  "name": "Hemingways Nairobi",
+  "vicinity": "Mbagathi Ridge, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356063,
+    "lng": 36.7618492
+  },
+  "name": "Park Place Hotel Nairobi",
+  "vicinity": "Langata, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356322,
+    "lng": 36.6529146
+  },
+  "name": "PEC Guest House",
+  "vicinity": "Ngong Hills, Ngong-Kibiku Road, Ngong",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3380469,
+    "lng": 36.72475960000001
+  },
+  "name": "Schumacher's",
+  "vicinity": "Karen \"C\", Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2871455,
+    "lng": 36.7476395
+  },
+  "name": "Heshima Supermarket",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2903245,
+    "lng": 36.7495532
+  },
+  "name": "Furaha Self Selection",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3763639,
+    "lng": 36.74431689999999
+  },
+  "name": "Giraffe Centre",
+  "vicinity": "Duma Road, Nairobi",
+  "type": ["park", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864349,
+    "lng": 36.745263
+  },
+  "name": "Sokoni Arcade VCT",
+  "vicinity": "Nairobi City",
+  "type": ["health", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3640088,
+    "lng": 36.76445459999999
+  },
+  "name": "Longview Suites Hotel",
+  "vicinity": "Magadi Road, Karen, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3233862,
+    "lng": 36.7077684
+  },
+  "name": "Dorman's",
+  "vicinity": "Langata, Nairobi",
+  "type": ["cafe", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864403,
+    "lng": 36.7452228
+  },
+  "name": "Sokoni Arcade",
+  "vicinity": "Nairobi City",
+  "type": ["shopping_mall", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2873583,
+    "lng": 36.7225206
+  },
+  "name": "Brookline High School",
+  "vicinity": "Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.276157,
+    "lng": 36.7104238
+  },
+  "name": "Waithaka Riverside Secondary School",
+  "vicinity": "Queens Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2543366,
+    "lng": 36.68166099999999
+  },
+  "name": "Kikuyu",
+  "vicinity": "Kikuyu",
+  "type": ["locality", "political"]
+}][{
+  "location": {
+    "lat": -1.2920659,
+    "lng": 36.82194619999999
+  },
+  "name": "Nairobi",
+  "vicinity": "Nairobi",
+  "type": ["locality", "political"]
+}, {
+  "location": {
+    "lat": -1.3218413,
+    "lng": 36.7168038
+  },
+  "name": "Bush House & Camp",
+  "vicinity": "silanga Avenue, Fair Acres Road Off Karen/Langata Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3501996,
+    "lng": 36.7594509
+  },
+  "name": "Hotel Troy",
+  "vicinity": "73 Magadi Road, Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3608353,
+    "lng": 36.7428212
+  },
+  "name": "Royale Hotel Karen",
+  "vicinity": "Ndalat Rd, off Langata South Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2895824,
+    "lng": 36.7831498
+  },
+  "name": "Godials Bed & Breakfast",
+  "vicinity": "Lenana Rd, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2936244,
+    "lng": 36.7952069
+  },
+  "name": "Best Western Premier Nairobi",
+  "vicinity": "Ground Floor, Best Western Premier Building, Argwings Kodhek Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3425279,
+    "lng": 36.7055201
+  },
+  "name": "Hemingways Nairobi",
+  "vicinity": "Mbagathi Ridge, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356063,
+    "lng": 36.7618492
+  },
+  "name": "Park Place Hotel Nairobi",
+  "vicinity": "Langata, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356322,
+    "lng": 36.6529146
+  },
+  "name": "PEC Guest House",
+  "vicinity": "Ngong Hills, Ngong-Kibiku Road, Ngong",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3380469,
+    "lng": 36.72475960000001
+  },
+  "name": "Schumacher's",
+  "vicinity": "Karen \"C\", Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2871455,
+    "lng": 36.7476395
+  },
+  "name": "Heshima Supermarket",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2903245,
+    "lng": 36.7495532
+  },
+  "name": "Furaha Self Selection",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3763639,
+    "lng": 36.74431689999999
+  },
+  "name": "Giraffe Centre",
+  "vicinity": "Duma Road, Nairobi",
+  "type": ["park", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864349,
+    "lng": 36.745263
+  },
+  "name": "Sokoni Arcade VCT",
+  "vicinity": "Nairobi City",
+  "type": ["health", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3640088,
+    "lng": 36.76445459999999
+  },
+  "name": "Longview Suites Hotel",
+  "vicinity": "Magadi Road, Karen, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3233862,
+    "lng": 36.7077684
+  },
+  "name": "Dorman's",
+  "vicinity": "Langata, Nairobi",
+  "type": ["cafe", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864403,
+    "lng": 36.7452228
+  },
+  "name": "Sokoni Arcade",
+  "vicinity": "Nairobi City",
+  "type": ["shopping_mall", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2873583,
+    "lng": 36.7225206
+  },
+  "name": "Brookline High School",
+  "vicinity": "Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.276157,
+    "lng": 36.7104238
+  },
+  "name": "Waithaka Riverside Secondary School",
+  "vicinity": "Queens Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2543366,
+    "lng": 36.68166099999999
+  },
+  "name": "Kikuyu",
+  "vicinity": "Kikuyu",
+  "type": ["locality", "political"]
+}][{
+  "location": {
+    "lat": -1.2920659,
+    "lng": 36.82194619999999
+  },
+  "name": "Nairobi",
+  "vicinity": "Nairobi",
+  "type": ["locality", "political"]
+}, {
+  "location": {
+    "lat": -1.3218413,
+    "lng": 36.7168038
+  },
+  "name": "Bush House & Camp",
+  "vicinity": "silanga Avenue, Fair Acres Road Off Karen/Langata Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3501996,
+    "lng": 36.7594509
+  },
+  "name": "Hotel Troy",
+  "vicinity": "73 Magadi Road, Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3608353,
+    "lng": 36.7428212
+  },
+  "name": "Royale Hotel Karen",
+  "vicinity": "Ndalat Rd, off Langata South Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2895824,
+    "lng": 36.7831498
+  },
+  "name": "Godials Bed & Breakfast",
+  "vicinity": "Lenana Rd, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2936244,
+    "lng": 36.7952069
+  },
+  "name": "Best Western Premier Nairobi",
+  "vicinity": "Ground Floor, Best Western Premier Building, Argwings Kodhek Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3425279,
+    "lng": 36.7055201
+  },
+  "name": "Hemingways Nairobi",
+  "vicinity": "Mbagathi Ridge, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356063,
+    "lng": 36.7618492
+  },
+  "name": "Park Place Hotel Nairobi",
+  "vicinity": "Langata, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356322,
+    "lng": 36.6529146
+  },
+  "name": "PEC Guest House",
+  "vicinity": "Ngong Hills, Ngong-Kibiku Road, Ngong",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3380469,
+    "lng": 36.72475960000001
+  },
+  "name": "Schumacher's",
+  "vicinity": "Karen \"C\", Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2871455,
+    "lng": 36.7476395
+  },
+  "name": "Heshima Supermarket",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2903245,
+    "lng": 36.7495532
+  },
+  "name": "Furaha Self Selection",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3763639,
+    "lng": 36.74431689999999
+  },
+  "name": "Giraffe Centre",
+  "vicinity": "Duma Road, Nairobi",
+  "type": ["park", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864349,
+    "lng": 36.745263
+  },
+  "name": "Sokoni Arcade VCT",
+  "vicinity": "Nairobi City",
+  "type": ["health", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3640088,
+    "lng": 36.76445459999999
+  },
+  "name": "Longview Suites Hotel",
+  "vicinity": "Magadi Road, Karen, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3233862,
+    "lng": 36.7077684
+  },
+  "name": "Dorman's",
+  "vicinity": "Langata, Nairobi",
+  "type": ["cafe", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864403,
+    "lng": 36.7452228
+  },
+  "name": "Sokoni Arcade",
+  "vicinity": "Nairobi City",
+  "type": ["shopping_mall", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2873583,
+    "lng": 36.7225206
+  },
+  "name": "Brookline High School",
+  "vicinity": "Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.276157,
+    "lng": 36.7104238
+  },
+  "name": "Waithaka Riverside Secondary School",
+  "vicinity": "Queens Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2543366,
+    "lng": 36.68166099999999
+  },
+  "name": "Kikuyu",
+  "vicinity": "Kikuyu",
+  "type": ["locality", "political"]
+}][{
+  "location": {
+    "lat": -1.2920659,
+    "lng": 36.82194619999999
+  },
+  "name": "Nairobi",
+  "vicinity": "Nairobi",
+  "type": ["locality", "political"]
+}, {
+  "location": {
+    "lat": -1.3218413,
+    "lng": 36.7168038
+  },
+  "name": "Bush House & Camp",
+  "vicinity": "silanga Avenue, Fair Acres Road Off Karen/Langata Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3501996,
+    "lng": 36.7594509
+  },
+  "name": "Hotel Troy",
+  "vicinity": "73 Magadi Road, Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3608353,
+    "lng": 36.7428212
+  },
+  "name": "Royale Hotel Karen",
+  "vicinity": "Ndalat Rd, off Langata South Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2895824,
+    "lng": 36.7831498
+  },
+  "name": "Godials Bed & Breakfast",
+  "vicinity": "Lenana Rd, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2936244,
+    "lng": 36.7952069
+  },
+  "name": "Best Western Premier Nairobi",
+  "vicinity": "Ground Floor, Best Western Premier Building, Argwings Kodhek Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3425279,
+    "lng": 36.7055201
+  },
+  "name": "Hemingways Nairobi",
+  "vicinity": "Mbagathi Ridge, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356063,
+    "lng": 36.7618492
+  },
+  "name": "Park Place Hotel Nairobi",
+  "vicinity": "Langata, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356322,
+    "lng": 36.6529146
+  },
+  "name": "PEC Guest House",
+  "vicinity": "Ngong Hills, Ngong-Kibiku Road, Ngong",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3380469,
+    "lng": 36.72475960000001
+  },
+  "name": "Schumacher's",
+  "vicinity": "Karen \"C\", Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2871455,
+    "lng": 36.7476395
+  },
+  "name": "Heshima Supermarket",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2903245,
+    "lng": 36.7495532
+  },
+  "name": "Furaha Self Selection",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3763639,
+    "lng": 36.74431689999999
+  },
+  "name": "Giraffe Centre",
+  "vicinity": "Duma Road, Nairobi",
+  "type": ["park", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864349,
+    "lng": 36.745263
+  },
+  "name": "Sokoni Arcade VCT",
+  "vicinity": "Nairobi City",
+  "type": ["health", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3640088,
+    "lng": 36.76445459999999
+  },
+  "name": "Longview Suites Hotel",
+  "vicinity": "Magadi Road, Karen, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3233862,
+    "lng": 36.7077684
+  },
+  "name": "Dorman's",
+  "vicinity": "Langata, Nairobi",
+  "type": ["cafe", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864403,
+    "lng": 36.7452228
+  },
+  "name": "Sokoni Arcade",
+  "vicinity": "Nairobi City",
+  "type": ["shopping_mall", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2873583,
+    "lng": 36.7225206
+  },
+  "name": "Brookline High School",
+  "vicinity": "Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.276157,
+    "lng": 36.7104238
+  },
+  "name": "Waithaka Riverside Secondary School",
+  "vicinity": "Queens Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2543366,
+    "lng": 36.68166099999999
+  },
+  "name": "Kikuyu",
+  "vicinity": "Kikuyu",
+  "type": ["locality", "political"]
+}][{
+  "location": {
+    "lat": -1.2920659,
+    "lng": 36.82194619999999
+  },
+  "name": "Nairobi",
+  "vicinity": "Nairobi",
+  "type": ["locality", "political"]
+}, {
+  "location": {
+    "lat": -1.3218413,
+    "lng": 36.7168038
+  },
+  "name": "Bush House & Camp",
+  "vicinity": "silanga Avenue, Fair Acres Road Off Karen/Langata Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3501996,
+    "lng": 36.7594509
+  },
+  "name": "Hotel Troy",
+  "vicinity": "73 Magadi Road, Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3608353,
+    "lng": 36.7428212
+  },
+  "name": "Royale Hotel Karen",
+  "vicinity": "Ndalat Rd, off Langata South Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2895824,
+    "lng": 36.7831498
+  },
+  "name": "Godials Bed & Breakfast",
+  "vicinity": "Lenana Rd, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2936244,
+    "lng": 36.7952069
+  },
+  "name": "Best Western Premier Nairobi",
+  "vicinity": "Ground Floor, Best Western Premier Building, Argwings Kodhek Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3425279,
+    "lng": 36.7055201
+  },
+  "name": "Hemingways Nairobi",
+  "vicinity": "Mbagathi Ridge, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356063,
+    "lng": 36.7618492
+  },
+  "name": "Park Place Hotel Nairobi",
+  "vicinity": "Langata, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356322,
+    "lng": 36.6529146
+  },
+  "name": "PEC Guest House",
+  "vicinity": "Ngong Hills, Ngong-Kibiku Road, Ngong",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3380469,
+    "lng": 36.72475960000001
+  },
+  "name": "Schumacher's",
+  "vicinity": "Karen \"C\", Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2871455,
+    "lng": 36.7476395
+  },
+  "name": "Heshima Supermarket",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2903245,
+    "lng": 36.7495532
+  },
+  "name": "Furaha Self Selection",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3763639,
+    "lng": 36.74431689999999
+  },
+  "name": "Giraffe Centre",
+  "vicinity": "Duma Road, Nairobi",
+  "type": ["park", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864349,
+    "lng": 36.745263
+  },
+  "name": "Sokoni Arcade VCT",
+  "vicinity": "Nairobi City",
+  "type": ["health", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3640088,
+    "lng": 36.76445459999999
+  },
+  "name": "Longview Suites Hotel",
+  "vicinity": "Magadi Road, Karen, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3233862,
+    "lng": 36.7077684
+  },
+  "name": "Dorman's",
+  "vicinity": "Langata, Nairobi",
+  "type": ["cafe", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864403,
+    "lng": 36.7452228
+  },
+  "name": "Sokoni Arcade",
+  "vicinity": "Nairobi City",
+  "type": ["shopping_mall", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2873583,
+    "lng": 36.7225206
+  },
+  "name": "Brookline High School",
+  "vicinity": "Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.276157,
+    "lng": 36.7104238
+  },
+  "name": "Waithaka Riverside Secondary School",
+  "vicinity": "Queens Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2543366,
+    "lng": 36.68166099999999
+  },
+  "name": "Kikuyu",
+  "vicinity": "Kikuyu",
+  "type": ["locality", "political"]
+}][{
+  "location": {
+    "lat": -1.2920659,
+    "lng": 36.82194619999999
+  },
+  "name": "Nairobi",
+  "vicinity": "Nairobi",
+  "type": ["locality", "political"]
+}, {
+  "location": {
+    "lat": -1.3218413,
+    "lng": 36.7168038
+  },
+  "name": "Bush House & Camp",
+  "vicinity": "silanga Avenue, Fair Acres Road Off Karen/Langata Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3501996,
+    "lng": 36.7594509
+  },
+  "name": "Hotel Troy",
+  "vicinity": "73 Magadi Road, Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3608353,
+    "lng": 36.7428212
+  },
+  "name": "Royale Hotel Karen",
+  "vicinity": "Ndalat Rd, off Langata South Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2895824,
+    "lng": 36.7831498
+  },
+  "name": "Godials Bed & Breakfast",
+  "vicinity": "Lenana Rd, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2936244,
+    "lng": 36.7952069
+  },
+  "name": "Best Western Premier Nairobi",
+  "vicinity": "Ground Floor, Best Western Premier Building, Argwings Kodhek Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3425279,
+    "lng": 36.7055201
+  },
+  "name": "Hemingways Nairobi",
+  "vicinity": "Mbagathi Ridge, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356063,
+    "lng": 36.7618492
+  },
+  "name": "Park Place Hotel Nairobi",
+  "vicinity": "Langata, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356322,
+    "lng": 36.6529146
+  },
+  "name": "PEC Guest House",
+  "vicinity": "Ngong Hills, Ngong-Kibiku Road, Ngong",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3380469,
+    "lng": 36.72475960000001
+  },
+  "name": "Schumacher's",
+  "vicinity": "Karen \"C\", Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2871455,
+    "lng": 36.7476395
+  },
+  "name": "Heshima Supermarket",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2903245,
+    "lng": 36.7495532
+  },
+  "name": "Furaha Self Selection",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3763639,
+    "lng": 36.74431689999999
+  },
+  "name": "Giraffe Centre",
+  "vicinity": "Duma Road, Nairobi",
+  "type": ["park", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864349,
+    "lng": 36.745263
+  },
+  "name": "Sokoni Arcade VCT",
+  "vicinity": "Nairobi City",
+  "type": ["health", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3640088,
+    "lng": 36.76445459999999
+  },
+  "name": "Longview Suites Hotel",
+  "vicinity": "Magadi Road, Karen, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3233862,
+    "lng": 36.7077684
+  },
+  "name": "Dorman's",
+  "vicinity": "Langata, Nairobi",
+  "type": ["cafe", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864403,
+    "lng": 36.7452228
+  },
+  "name": "Sokoni Arcade",
+  "vicinity": "Nairobi City",
+  "type": ["shopping_mall", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2873583,
+    "lng": 36.7225206
+  },
+  "name": "Brookline High School",
+  "vicinity": "Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.276157,
+    "lng": 36.7104238
+  },
+  "name": "Waithaka Riverside Secondary School",
+  "vicinity": "Queens Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2543366,
+    "lng": 36.68166099999999
+  },
+  "name": "Kikuyu",
+  "vicinity": "Kikuyu",
+  "type": ["locality", "political"]
+}][{
+  "location": {
+    "lat": -1.2920659,
+    "lng": 36.82194619999999
+  },
+  "name": "Nairobi",
+  "vicinity": "Nairobi",
+  "type": ["locality", "political"]
+}, {
+  "location": {
+    "lat": -1.3218413,
+    "lng": 36.7168038
+  },
+  "name": "Bush House & Camp",
+  "vicinity": "silanga Avenue, Fair Acres Road Off Karen/Langata Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3501996,
+    "lng": 36.7594509
+  },
+  "name": "Hotel Troy",
+  "vicinity": "73 Magadi Road, Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3608353,
+    "lng": 36.7428212
+  },
+  "name": "Royale Hotel Karen",
+  "vicinity": "Ndalat Rd, off Langata South Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2895824,
+    "lng": 36.7831498
+  },
+  "name": "Godials Bed & Breakfast",
+  "vicinity": "Lenana Rd, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2936244,
+    "lng": 36.7952069
+  },
+  "name": "Best Western Premier Nairobi",
+  "vicinity": "Ground Floor, Best Western Premier Building, Argwings Kodhek Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3425279,
+    "lng": 36.7055201
+  },
+  "name": "Hemingways Nairobi",
+  "vicinity": "Mbagathi Ridge, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356063,
+    "lng": 36.7618492
+  },
+  "name": "Park Place Hotel Nairobi",
+  "vicinity": "Langata, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356322,
+    "lng": 36.6529146
+  },
+  "name": "PEC Guest House",
+  "vicinity": "Ngong Hills, Ngong-Kibiku Road, Ngong",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3380469,
+    "lng": 36.72475960000001
+  },
+  "name": "Schumacher's",
+  "vicinity": "Karen \"C\", Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2871455,
+    "lng": 36.7476395
+  },
+  "name": "Heshima Supermarket",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2903245,
+    "lng": 36.7495532
+  },
+  "name": "Furaha Self Selection",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3763639,
+    "lng": 36.74431689999999
+  },
+  "name": "Giraffe Centre",
+  "vicinity": "Duma Road, Nairobi",
+  "type": ["park", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864349,
+    "lng": 36.745263
+  },
+  "name": "Sokoni Arcade VCT",
+  "vicinity": "Nairobi City",
+  "type": ["health", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3640088,
+    "lng": 36.76445459999999
+  },
+  "name": "Longview Suites Hotel",
+  "vicinity": "Magadi Road, Karen, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3233862,
+    "lng": 36.7077684
+  },
+  "name": "Dorman's",
+  "vicinity": "Langata, Nairobi",
+  "type": ["cafe", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864403,
+    "lng": 36.7452228
+  },
+  "name": "Sokoni Arcade",
+  "vicinity": "Nairobi City",
+  "type": ["shopping_mall", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2873583,
+    "lng": 36.7225206
+  },
+  "name": "Brookline High School",
+  "vicinity": "Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.276157,
+    "lng": 36.7104238
+  },
+  "name": "Waithaka Riverside Secondary School",
+  "vicinity": "Queens Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2543366,
+    "lng": 36.68166099999999
+  },
+  "name": "Kikuyu",
+  "vicinity": "Kikuyu",
+  "type": ["locality", "political"]
+}][{
+  "location": {
+    "lat": -1.2920659,
+    "lng": 36.82194619999999
+  },
+  "name": "Nairobi",
+  "vicinity": "Nairobi",
+  "type": ["locality", "political"]
+}, {
+  "location": {
+    "lat": -1.3218413,
+    "lng": 36.7168038
+  },
+  "name": "Bush House & Camp",
+  "vicinity": "silanga Avenue, Fair Acres Road Off Karen/Langata Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3501996,
+    "lng": 36.7594509
+  },
+  "name": "Hotel Troy",
+  "vicinity": "73 Magadi Road, Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3608353,
+    "lng": 36.7428212
+  },
+  "name": "Royale Hotel Karen",
+  "vicinity": "Ndalat Rd, off Langata South Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2895824,
+    "lng": 36.7831498
+  },
+  "name": "Godials Bed & Breakfast",
+  "vicinity": "Lenana Rd, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2936244,
+    "lng": 36.7952069
+  },
+  "name": "Best Western Premier Nairobi",
+  "vicinity": "Ground Floor, Best Western Premier Building, Argwings Kodhek Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3425279,
+    "lng": 36.7055201
+  },
+  "name": "Hemingways Nairobi",
+  "vicinity": "Mbagathi Ridge, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356063,
+    "lng": 36.7618492
+  },
+  "name": "Park Place Hotel Nairobi",
+  "vicinity": "Langata, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356322,
+    "lng": 36.6529146
+  },
+  "name": "PEC Guest House",
+  "vicinity": "Ngong Hills, Ngong-Kibiku Road, Ngong",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3380469,
+    "lng": 36.72475960000001
+  },
+  "name": "Schumacher's",
+  "vicinity": "Karen \"C\", Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2871455,
+    "lng": 36.7476395
+  },
+  "name": "Heshima Supermarket",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2903245,
+    "lng": 36.7495532
+  },
+  "name": "Furaha Self Selection",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3763639,
+    "lng": 36.74431689999999
+  },
+  "name": "Giraffe Centre",
+  "vicinity": "Duma Road, Nairobi",
+  "type": ["park", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864349,
+    "lng": 36.745263
+  },
+  "name": "Sokoni Arcade VCT",
+  "vicinity": "Nairobi City",
+  "type": ["health", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3640088,
+    "lng": 36.76445459999999
+  },
+  "name": "Longview Suites Hotel",
+  "vicinity": "Magadi Road, Karen, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3233862,
+    "lng": 36.7077684
+  },
+  "name": "Dorman's",
+  "vicinity": "Langata, Nairobi",
+  "type": ["cafe", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864403,
+    "lng": 36.7452228
+  },
+  "name": "Sokoni Arcade",
+  "vicinity": "Nairobi City",
+  "type": ["shopping_mall", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2873583,
+    "lng": 36.7225206
+  },
+  "name": "Brookline High School",
+  "vicinity": "Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.276157,
+    "lng": 36.7104238
+  },
+  "name": "Waithaka Riverside Secondary School",
+  "vicinity": "Queens Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2543366,
+    "lng": 36.68166099999999
+  },
+  "name": "Kikuyu",
+  "vicinity": "Kikuyu",
+  "type": ["locality", "political"]
+}][{
+  "location": {
+    "lat": -1.2920659,
+    "lng": 36.82194619999999
+  },
+  "name": "Nairobi",
+  "vicinity": "Nairobi",
+  "type": ["locality", "political"]
+}, {
+  "location": {
+    "lat": -1.3218413,
+    "lng": 36.7168038
+  },
+  "name": "Bush House & Camp",
+  "vicinity": "silanga Avenue, Fair Acres Road Off Karen/Langata Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3501996,
+    "lng": 36.7594509
+  },
+  "name": "Hotel Troy",
+  "vicinity": "73 Magadi Road, Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3608353,
+    "lng": 36.7428212
+  },
+  "name": "Royale Hotel Karen",
+  "vicinity": "Ndalat Rd, off Langata South Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2895824,
+    "lng": 36.7831498
+  },
+  "name": "Godials Bed & Breakfast",
+  "vicinity": "Lenana Rd, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2936244,
+    "lng": 36.7952069
+  },
+  "name": "Best Western Premier Nairobi",
+  "vicinity": "Ground Floor, Best Western Premier Building, Argwings Kodhek Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3425279,
+    "lng": 36.7055201
+  },
+  "name": "Hemingways Nairobi",
+  "vicinity": "Mbagathi Ridge, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356063,
+    "lng": 36.7618492
+  },
+  "name": "Park Place Hotel Nairobi",
+  "vicinity": "Langata, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356322,
+    "lng": 36.6529146
+  },
+  "name": "PEC Guest House",
+  "vicinity": "Ngong Hills, Ngong-Kibiku Road, Ngong",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3380469,
+    "lng": 36.72475960000001
+  },
+  "name": "Schumacher's",
+  "vicinity": "Karen \"C\", Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2871455,
+    "lng": 36.7476395
+  },
+  "name": "Heshima Supermarket",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2903245,
+    "lng": 36.7495532
+  },
+  "name": "Furaha Self Selection",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3763639,
+    "lng": 36.74431689999999
+  },
+  "name": "Giraffe Centre",
+  "vicinity": "Duma Road, Nairobi",
+  "type": ["park", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864349,
+    "lng": 36.745263
+  },
+  "name": "Sokoni Arcade VCT",
+  "vicinity": "Nairobi City",
+  "type": ["health", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3640088,
+    "lng": 36.76445459999999
+  },
+  "name": "Longview Suites Hotel",
+  "vicinity": "Magadi Road, Karen, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3233862,
+    "lng": 36.7077684
+  },
+  "name": "Dorman's",
+  "vicinity": "Langata, Nairobi",
+  "type": ["cafe", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864403,
+    "lng": 36.7452228
+  },
+  "name": "Sokoni Arcade",
+  "vicinity": "Nairobi City",
+  "type": ["shopping_mall", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2873583,
+    "lng": 36.7225206
+  },
+  "name": "Brookline High School",
+  "vicinity": "Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.276157,
+    "lng": 36.7104238
+  },
+  "name": "Waithaka Riverside Secondary School",
+  "vicinity": "Queens Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2543366,
+    "lng": 36.68166099999999
+  },
+  "name": "Kikuyu",
+  "vicinity": "Kikuyu",
+  "type": ["locality", "political"]
+}][{
+  "location": {
+    "lat": -1.2920659,
+    "lng": 36.82194619999999
+  },
+  "name": "Nairobi",
+  "vicinity": "Nairobi",
+  "type": ["locality", "political"]
+}, {
+  "location": {
+    "lat": -1.3218413,
+    "lng": 36.7168038
+  },
+  "name": "Bush House & Camp",
+  "vicinity": "silanga Avenue, Fair Acres Road Off Karen/Langata Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3501996,
+    "lng": 36.7594509
+  },
+  "name": "Hotel Troy",
+  "vicinity": "73 Magadi Road, Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3608353,
+    "lng": 36.7428212
+  },
+  "name": "Royale Hotel Karen",
+  "vicinity": "Ndalat Rd, off Langata South Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2895824,
+    "lng": 36.7831498
+  },
+  "name": "Godials Bed & Breakfast",
+  "vicinity": "Lenana Rd, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2936244,
+    "lng": 36.7952069
+  },
+  "name": "Best Western Premier Nairobi",
+  "vicinity": "Ground Floor, Best Western Premier Building, Argwings Kodhek Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3425279,
+    "lng": 36.7055201
+  },
+  "name": "Hemingways Nairobi",
+  "vicinity": "Mbagathi Ridge, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356063,
+    "lng": 36.7618492
+  },
+  "name": "Park Place Hotel Nairobi",
+  "vicinity": "Langata, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356322,
+    "lng": 36.6529146
+  },
+  "name": "PEC Guest House",
+  "vicinity": "Ngong Hills, Ngong-Kibiku Road, Ngong",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3380469,
+    "lng": 36.72475960000001
+  },
+  "name": "Schumacher's",
+  "vicinity": "Karen \"C\", Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2871455,
+    "lng": 36.7476395
+  },
+  "name": "Heshima Supermarket",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2903245,
+    "lng": 36.7495532
+  },
+  "name": "Furaha Self Selection",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3763639,
+    "lng": 36.74431689999999
+  },
+  "name": "Giraffe Centre",
+  "vicinity": "Duma Road, Nairobi",
+  "type": ["park", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864349,
+    "lng": 36.745263
+  },
+  "name": "Sokoni Arcade VCT",
+  "vicinity": "Nairobi City",
+  "type": ["health", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3640088,
+    "lng": 36.76445459999999
+  },
+  "name": "Longview Suites Hotel",
+  "vicinity": "Magadi Road, Karen, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3233862,
+    "lng": 36.7077684
+  },
+  "name": "Dorman's",
+  "vicinity": "Langata, Nairobi",
+  "type": ["cafe", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864403,
+    "lng": 36.7452228
+  },
+  "name": "Sokoni Arcade",
+  "vicinity": "Nairobi City",
+  "type": ["shopping_mall", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2873583,
+    "lng": 36.7225206
+  },
+  "name": "Brookline High School",
+  "vicinity": "Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.276157,
+    "lng": 36.7104238
+  },
+  "name": "Waithaka Riverside Secondary School",
+  "vicinity": "Queens Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2543366,
+    "lng": 36.68166099999999
+  },
+  "name": "Kikuyu",
+  "vicinity": "Kikuyu",
+  "type": ["locality", "political"]
+}][{
+  "location": {
+    "lat": -1.2920659,
+    "lng": 36.82194619999999
+  },
+  "name": "Nairobi",
+  "vicinity": "Nairobi",
+  "type": ["locality", "political"]
+}, {
+  "location": {
+    "lat": -1.3218413,
+    "lng": 36.7168038
+  },
+  "name": "Bush House & Camp",
+  "vicinity": "silanga Avenue, Fair Acres Road Off Karen/Langata Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3501996,
+    "lng": 36.7594509
+  },
+  "name": "Hotel Troy",
+  "vicinity": "73 Magadi Road, Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3608353,
+    "lng": 36.7428212
+  },
+  "name": "Royale Hotel Karen",
+  "vicinity": "Ndalat Rd, off Langata South Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2895824,
+    "lng": 36.7831498
+  },
+  "name": "Godials Bed & Breakfast",
+  "vicinity": "Lenana Rd, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2936244,
+    "lng": 36.7952069
+  },
+  "name": "Best Western Premier Nairobi",
+  "vicinity": "Ground Floor, Best Western Premier Building, Argwings Kodhek Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3425279,
+    "lng": 36.7055201
+  },
+  "name": "Hemingways Nairobi",
+  "vicinity": "Mbagathi Ridge, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356063,
+    "lng": 36.7618492
+  },
+  "name": "Park Place Hotel Nairobi",
+  "vicinity": "Langata, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356322,
+    "lng": 36.6529146
+  },
+  "name": "PEC Guest House",
+  "vicinity": "Ngong Hills, Ngong-Kibiku Road, Ngong",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3380469,
+    "lng": 36.72475960000001
+  },
+  "name": "Schumacher's",
+  "vicinity": "Karen \"C\", Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2871455,
+    "lng": 36.7476395
+  },
+  "name": "Heshima Supermarket",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2903245,
+    "lng": 36.7495532
+  },
+  "name": "Furaha Self Selection",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3763639,
+    "lng": 36.74431689999999
+  },
+  "name": "Giraffe Centre",
+  "vicinity": "Duma Road, Nairobi",
+  "type": ["park", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864349,
+    "lng": 36.745263
+  },
+  "name": "Sokoni Arcade VCT",
+  "vicinity": "Nairobi City",
+  "type": ["health", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3640088,
+    "lng": 36.76445459999999
+  },
+  "name": "Longview Suites Hotel",
+  "vicinity": "Magadi Road, Karen, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3233862,
+    "lng": 36.7077684
+  },
+  "name": "Dorman's",
+  "vicinity": "Langata, Nairobi",
+  "type": ["cafe", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864403,
+    "lng": 36.7452228
+  },
+  "name": "Sokoni Arcade",
+  "vicinity": "Nairobi City",
+  "type": ["shopping_mall", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2873583,
+    "lng": 36.7225206
+  },
+  "name": "Brookline High School",
+  "vicinity": "Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.276157,
+    "lng": 36.7104238
+  },
+  "name": "Waithaka Riverside Secondary School",
+  "vicinity": "Queens Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2543366,
+    "lng": 36.68166099999999
+  },
+  "name": "Kikuyu",
+  "vicinity": "Kikuyu",
+  "type": ["locality", "political"]
+}][{
+  "location": {
+    "lat": -1.2920659,
+    "lng": 36.82194619999999
+  },
+  "name": "Nairobi",
+  "vicinity": "Nairobi",
+  "type": ["locality", "political"]
+}, {
+  "location": {
+    "lat": -1.3218413,
+    "lng": 36.7168038
+  },
+  "name": "Bush House & Camp",
+  "vicinity": "silanga Avenue, Fair Acres Road Off Karen/Langata Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3501996,
+    "lng": 36.7594509
+  },
+  "name": "Hotel Troy",
+  "vicinity": "73 Magadi Road, Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3608353,
+    "lng": 36.7428212
+  },
+  "name": "Royale Hotel Karen",
+  "vicinity": "Ndalat Rd, off Langata South Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2895824,
+    "lng": 36.7831498
+  },
+  "name": "Godials Bed & Breakfast",
+  "vicinity": "Lenana Rd, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2936244,
+    "lng": 36.7952069
+  },
+  "name": "Best Western Premier Nairobi",
+  "vicinity": "Ground Floor, Best Western Premier Building, Argwings Kodhek Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3425279,
+    "lng": 36.7055201
+  },
+  "name": "Hemingways Nairobi",
+  "vicinity": "Mbagathi Ridge, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356063,
+    "lng": 36.7618492
+  },
+  "name": "Park Place Hotel Nairobi",
+  "vicinity": "Langata, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356322,
+    "lng": 36.6529146
+  },
+  "name": "PEC Guest House",
+  "vicinity": "Ngong Hills, Ngong-Kibiku Road, Ngong",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3380469,
+    "lng": 36.72475960000001
+  },
+  "name": "Schumacher's",
+  "vicinity": "Karen \"C\", Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2871455,
+    "lng": 36.7476395
+  },
+  "name": "Heshima Supermarket",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2903245,
+    "lng": 36.7495532
+  },
+  "name": "Furaha Self Selection",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3763639,
+    "lng": 36.74431689999999
+  },
+  "name": "Giraffe Centre",
+  "vicinity": "Duma Road, Nairobi",
+  "type": ["park", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864349,
+    "lng": 36.745263
+  },
+  "name": "Sokoni Arcade VCT",
+  "vicinity": "Nairobi City",
+  "type": ["health", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3640088,
+    "lng": 36.76445459999999
+  },
+  "name": "Longview Suites Hotel",
+  "vicinity": "Magadi Road, Karen, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3233862,
+    "lng": 36.7077684
+  },
+  "name": "Dorman's",
+  "vicinity": "Langata, Nairobi",
+  "type": ["cafe", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864403,
+    "lng": 36.7452228
+  },
+  "name": "Sokoni Arcade",
+  "vicinity": "Nairobi City",
+  "type": ["shopping_mall", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2873583,
+    "lng": 36.7225206
+  },
+  "name": "Brookline High School",
+  "vicinity": "Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.276157,
+    "lng": 36.7104238
+  },
+  "name": "Waithaka Riverside Secondary School",
+  "vicinity": "Queens Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2543366,
+    "lng": 36.68166099999999
+  },
+  "name": "Kikuyu",
+  "vicinity": "Kikuyu",
+  "type": ["locality", "political"]
+}][{
+  "location": {
+    "lat": -1.2920659,
+    "lng": 36.82194619999999
+  },
+  "name": "Nairobi",
+  "vicinity": "Nairobi",
+  "type": ["locality", "political"]
+}, {
+  "location": {
+    "lat": -1.3218413,
+    "lng": 36.7168038
+  },
+  "name": "Bush House & Camp",
+  "vicinity": "silanga Avenue, Fair Acres Road Off Karen/Langata Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3501996,
+    "lng": 36.7594509
+  },
+  "name": "Hotel Troy",
+  "vicinity": "73 Magadi Road, Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3608353,
+    "lng": 36.7428212
+  },
+  "name": "Royale Hotel Karen",
+  "vicinity": "Ndalat Rd, off Langata South Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2895824,
+    "lng": 36.7831498
+  },
+  "name": "Godials Bed & Breakfast",
+  "vicinity": "Lenana Rd, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2936244,
+    "lng": 36.7952069
+  },
+  "name": "Best Western Premier Nairobi",
+  "vicinity": "Ground Floor, Best Western Premier Building, Argwings Kodhek Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3425279,
+    "lng": 36.7055201
+  },
+  "name": "Hemingways Nairobi",
+  "vicinity": "Mbagathi Ridge, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356063,
+    "lng": 36.7618492
+  },
+  "name": "Park Place Hotel Nairobi",
+  "vicinity": "Langata, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356322,
+    "lng": 36.6529146
+  },
+  "name": "PEC Guest House",
+  "vicinity": "Ngong Hills, Ngong-Kibiku Road, Ngong",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3380469,
+    "lng": 36.72475960000001
+  },
+  "name": "Schumacher's",
+  "vicinity": "Karen \"C\", Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2871455,
+    "lng": 36.7476395
+  },
+  "name": "Heshima Supermarket",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2903245,
+    "lng": 36.7495532
+  },
+  "name": "Furaha Self Selection",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3763639,
+    "lng": 36.74431689999999
+  },
+  "name": "Giraffe Centre",
+  "vicinity": "Duma Road, Nairobi",
+  "type": ["park", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864349,
+    "lng": 36.745263
+  },
+  "name": "Sokoni Arcade VCT",
+  "vicinity": "Nairobi City",
+  "type": ["health", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3640088,
+    "lng": 36.76445459999999
+  },
+  "name": "Longview Suites Hotel",
+  "vicinity": "Magadi Road, Karen, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3233862,
+    "lng": 36.7077684
+  },
+  "name": "Dorman's",
+  "vicinity": "Langata, Nairobi",
+  "type": ["cafe", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864403,
+    "lng": 36.7452228
+  },
+  "name": "Sokoni Arcade",
+  "vicinity": "Nairobi City",
+  "type": ["shopping_mall", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2873583,
+    "lng": 36.7225206
+  },
+  "name": "Brookline High School",
+  "vicinity": "Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.276157,
+    "lng": 36.7104238
+  },
+  "name": "Waithaka Riverside Secondary School",
+  "vicinity": "Queens Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2543366,
+    "lng": 36.68166099999999
+  },
+  "name": "Kikuyu",
+  "vicinity": "Kikuyu",
+  "type": ["locality", "political"]
+}][{
+  "location": {
+    "lat": -1.2920659,
+    "lng": 36.82194619999999
+  },
+  "name": "Nairobi",
+  "vicinity": "Nairobi",
+  "type": ["locality", "political"]
+}, {
+  "location": {
+    "lat": -1.3218413,
+    "lng": 36.7168038
+  },
+  "name": "Bush House & Camp",
+  "vicinity": "silanga Avenue, Fair Acres Road Off Karen/Langata Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3501996,
+    "lng": 36.7594509
+  },
+  "name": "Hotel Troy",
+  "vicinity": "73 Magadi Road, Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3608353,
+    "lng": 36.7428212
+  },
+  "name": "Royale Hotel Karen",
+  "vicinity": "Ndalat Rd, off Langata South Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2895824,
+    "lng": 36.7831498
+  },
+  "name": "Godials Bed & Breakfast",
+  "vicinity": "Lenana Rd, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2936244,
+    "lng": 36.7952069
+  },
+  "name": "Best Western Premier Nairobi",
+  "vicinity": "Ground Floor, Best Western Premier Building, Argwings Kodhek Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3425279,
+    "lng": 36.7055201
+  },
+  "name": "Hemingways Nairobi",
+  "vicinity": "Mbagathi Ridge, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356063,
+    "lng": 36.7618492
+  },
+  "name": "Park Place Hotel Nairobi",
+  "vicinity": "Langata, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356322,
+    "lng": 36.6529146
+  },
+  "name": "PEC Guest House",
+  "vicinity": "Ngong Hills, Ngong-Kibiku Road, Ngong",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3380469,
+    "lng": 36.72475960000001
+  },
+  "name": "Schumacher's",
+  "vicinity": "Karen \"C\", Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2871455,
+    "lng": 36.7476395
+  },
+  "name": "Heshima Supermarket",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2903245,
+    "lng": 36.7495532
+  },
+  "name": "Furaha Self Selection",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3763639,
+    "lng": 36.74431689999999
+  },
+  "name": "Giraffe Centre",
+  "vicinity": "Duma Road, Nairobi",
+  "type": ["park", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864349,
+    "lng": 36.745263
+  },
+  "name": "Sokoni Arcade VCT",
+  "vicinity": "Nairobi City",
+  "type": ["health", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3640088,
+    "lng": 36.76445459999999
+  },
+  "name": "Longview Suites Hotel",
+  "vicinity": "Magadi Road, Karen, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3233862,
+    "lng": 36.7077684
+  },
+  "name": "Dorman's",
+  "vicinity": "Langata, Nairobi",
+  "type": ["cafe", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864403,
+    "lng": 36.7452228
+  },
+  "name": "Sokoni Arcade",
+  "vicinity": "Nairobi City",
+  "type": ["shopping_mall", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2873583,
+    "lng": 36.7225206
+  },
+  "name": "Brookline High School",
+  "vicinity": "Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.276157,
+    "lng": 36.7104238
+  },
+  "name": "Waithaka Riverside Secondary School",
+  "vicinity": "Queens Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2543366,
+    "lng": 36.68166099999999
+  },
+  "name": "Kikuyu",
+  "vicinity": "Kikuyu",
+  "type": ["locality", "political"]
+}][{
+  "location": {
+    "lat": -1.2920659,
+    "lng": 36.82194619999999
+  },
+  "name": "Nairobi",
+  "vicinity": "Nairobi",
+  "type": ["locality", "political"]
+}, {
+  "location": {
+    "lat": -1.3218413,
+    "lng": 36.7168038
+  },
+  "name": "Bush House & Camp",
+  "vicinity": "silanga Avenue, Fair Acres Road Off Karen/Langata Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3501996,
+    "lng": 36.7594509
+  },
+  "name": "Hotel Troy",
+  "vicinity": "73 Magadi Road, Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3608353,
+    "lng": 36.7428212
+  },
+  "name": "Royale Hotel Karen",
+  "vicinity": "Ndalat Rd, off Langata South Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2895824,
+    "lng": 36.7831498
+  },
+  "name": "Godials Bed & Breakfast",
+  "vicinity": "Lenana Rd, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2936244,
+    "lng": 36.7952069
+  },
+  "name": "Best Western Premier Nairobi",
+  "vicinity": "Ground Floor, Best Western Premier Building, Argwings Kodhek Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3425279,
+    "lng": 36.7055201
+  },
+  "name": "Hemingways Nairobi",
+  "vicinity": "Mbagathi Ridge, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356063,
+    "lng": 36.7618492
+  },
+  "name": "Park Place Hotel Nairobi",
+  "vicinity": "Langata, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356322,
+    "lng": 36.6529146
+  },
+  "name": "PEC Guest House",
+  "vicinity": "Ngong Hills, Ngong-Kibiku Road, Ngong",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3380469,
+    "lng": 36.72475960000001
+  },
+  "name": "Schumacher's",
+  "vicinity": "Karen \"C\", Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2871455,
+    "lng": 36.7476395
+  },
+  "name": "Heshima Supermarket",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2903245,
+    "lng": 36.7495532
+  },
+  "name": "Furaha Self Selection",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3763639,
+    "lng": 36.74431689999999
+  },
+  "name": "Giraffe Centre",
+  "vicinity": "Duma Road, Nairobi",
+  "type": ["park", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864349,
+    "lng": 36.745263
+  },
+  "name": "Sokoni Arcade VCT",
+  "vicinity": "Nairobi City",
+  "type": ["health", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3640088,
+    "lng": 36.76445459999999
+  },
+  "name": "Longview Suites Hotel",
+  "vicinity": "Magadi Road, Karen, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3233862,
+    "lng": 36.7077684
+  },
+  "name": "Dorman's",
+  "vicinity": "Langata, Nairobi",
+  "type": ["cafe", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864403,
+    "lng": 36.7452228
+  },
+  "name": "Sokoni Arcade",
+  "vicinity": "Nairobi City",
+  "type": ["shopping_mall", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2873583,
+    "lng": 36.7225206
+  },
+  "name": "Brookline High School",
+  "vicinity": "Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.276157,
+    "lng": 36.7104238
+  },
+  "name": "Waithaka Riverside Secondary School",
+  "vicinity": "Queens Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2543366,
+    "lng": 36.68166099999999
+  },
+  "name": "Kikuyu",
+  "vicinity": "Kikuyu",
+  "type": ["locality", "political"]
+}][{
+  "location": {
+    "lat": -1.2920659,
+    "lng": 36.82194619999999
+  },
+  "name": "Nairobi",
+  "vicinity": "Nairobi",
+  "type": ["locality", "political"]
+}, {
+  "location": {
+    "lat": -1.3218413,
+    "lng": 36.7168038
+  },
+  "name": "Bush House & Camp",
+  "vicinity": "silanga Avenue, Fair Acres Road Off Karen/Langata Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3501996,
+    "lng": 36.7594509
+  },
+  "name": "Hotel Troy",
+  "vicinity": "73 Magadi Road, Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3608353,
+    "lng": 36.7428212
+  },
+  "name": "Royale Hotel Karen",
+  "vicinity": "Ndalat Rd, off Langata South Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2895824,
+    "lng": 36.7831498
+  },
+  "name": "Godials Bed & Breakfast",
+  "vicinity": "Lenana Rd, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2936244,
+    "lng": 36.7952069
+  },
+  "name": "Best Western Premier Nairobi",
+  "vicinity": "Ground Floor, Best Western Premier Building, Argwings Kodhek Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3425279,
+    "lng": 36.7055201
+  },
+  "name": "Hemingways Nairobi",
+  "vicinity": "Mbagathi Ridge, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356063,
+    "lng": 36.7618492
+  },
+  "name": "Park Place Hotel Nairobi",
+  "vicinity": "Langata, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356322,
+    "lng": 36.6529146
+  },
+  "name": "PEC Guest House",
+  "vicinity": "Ngong Hills, Ngong-Kibiku Road, Ngong",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3380469,
+    "lng": 36.72475960000001
+  },
+  "name": "Schumacher's",
+  "vicinity": "Karen \"C\", Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2871455,
+    "lng": 36.7476395
+  },
+  "name": "Heshima Supermarket",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2903245,
+    "lng": 36.7495532
+  },
+  "name": "Furaha Self Selection",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3763639,
+    "lng": 36.74431689999999
+  },
+  "name": "Giraffe Centre",
+  "vicinity": "Duma Road, Nairobi",
+  "type": ["park", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864349,
+    "lng": 36.745263
+  },
+  "name": "Sokoni Arcade VCT",
+  "vicinity": "Nairobi City",
+  "type": ["health", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3640088,
+    "lng": 36.76445459999999
+  },
+  "name": "Longview Suites Hotel",
+  "vicinity": "Magadi Road, Karen, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3233862,
+    "lng": 36.7077684
+  },
+  "name": "Dorman's",
+  "vicinity": "Langata, Nairobi",
+  "type": ["cafe", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864403,
+    "lng": 36.7452228
+  },
+  "name": "Sokoni Arcade",
+  "vicinity": "Nairobi City",
+  "type": ["shopping_mall", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2873583,
+    "lng": 36.7225206
+  },
+  "name": "Brookline High School",
+  "vicinity": "Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.276157,
+    "lng": 36.7104238
+  },
+  "name": "Waithaka Riverside Secondary School",
+  "vicinity": "Queens Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2543366,
+    "lng": 36.68166099999999
+  },
+  "name": "Kikuyu",
+  "vicinity": "Kikuyu",
+  "type": ["locality", "political"]
+}][{
+  "location": {
+    "lat": -1.2920659,
+    "lng": 36.82194619999999
+  },
+  "name": "Nairobi",
+  "vicinity": "Nairobi",
+  "type": ["locality", "political"]
+}, {
+  "location": {
+    "lat": -1.3218413,
+    "lng": 36.7168038
+  },
+  "name": "Bush House & Camp",
+  "vicinity": "silanga Avenue, Fair Acres Road Off Karen/Langata Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3501996,
+    "lng": 36.7594509
+  },
+  "name": "Hotel Troy",
+  "vicinity": "73 Magadi Road, Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3608353,
+    "lng": 36.7428212
+  },
+  "name": "Royale Hotel Karen",
+  "vicinity": "Ndalat Rd, off Langata South Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2895824,
+    "lng": 36.7831498
+  },
+  "name": "Godials Bed & Breakfast",
+  "vicinity": "Lenana Rd, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2936244,
+    "lng": 36.7952069
+  },
+  "name": "Best Western Premier Nairobi",
+  "vicinity": "Ground Floor, Best Western Premier Building, Argwings Kodhek Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3425279,
+    "lng": 36.7055201
+  },
+  "name": "Hemingways Nairobi",
+  "vicinity": "Mbagathi Ridge, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356063,
+    "lng": 36.7618492
+  },
+  "name": "Park Place Hotel Nairobi",
+  "vicinity": "Langata, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356322,
+    "lng": 36.6529146
+  },
+  "name": "PEC Guest House",
+  "vicinity": "Ngong Hills, Ngong-Kibiku Road, Ngong",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3380469,
+    "lng": 36.72475960000001
+  },
+  "name": "Schumacher's",
+  "vicinity": "Karen \"C\", Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2871455,
+    "lng": 36.7476395
+  },
+  "name": "Heshima Supermarket",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2903245,
+    "lng": 36.7495532
+  },
+  "name": "Furaha Self Selection",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3763639,
+    "lng": 36.74431689999999
+  },
+  "name": "Giraffe Centre",
+  "vicinity": "Duma Road, Nairobi",
+  "type": ["park", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864349,
+    "lng": 36.745263
+  },
+  "name": "Sokoni Arcade VCT",
+  "vicinity": "Nairobi City",
+  "type": ["health", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3640088,
+    "lng": 36.76445459999999
+  },
+  "name": "Longview Suites Hotel",
+  "vicinity": "Magadi Road, Karen, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3233862,
+    "lng": 36.7077684
+  },
+  "name": "Dorman's",
+  "vicinity": "Langata, Nairobi",
+  "type": ["cafe", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864403,
+    "lng": 36.7452228
+  },
+  "name": "Sokoni Arcade",
+  "vicinity": "Nairobi City",
+  "type": ["shopping_mall", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2873583,
+    "lng": 36.7225206
+  },
+  "name": "Brookline High School",
+  "vicinity": "Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.276157,
+    "lng": 36.7104238
+  },
+  "name": "Waithaka Riverside Secondary School",
+  "vicinity": "Queens Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2543366,
+    "lng": 36.68166099999999
+  },
+  "name": "Kikuyu",
+  "vicinity": "Kikuyu",
+  "type": ["locality", "political"]
+}][{
+  "location": {
+    "lat": -1.2920659,
+    "lng": 36.82194619999999
+  },
+  "name": "Nairobi",
+  "vicinity": "Nairobi",
+  "type": ["locality", "political"]
+}, {
+  "location": {
+    "lat": -1.3218413,
+    "lng": 36.7168038
+  },
+  "name": "Bush House & Camp",
+  "vicinity": "silanga Avenue, Fair Acres Road Off Karen/Langata Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3501996,
+    "lng": 36.7594509
+  },
+  "name": "Hotel Troy",
+  "vicinity": "73 Magadi Road, Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3608353,
+    "lng": 36.7428212
+  },
+  "name": "Royale Hotel Karen",
+  "vicinity": "Ndalat Rd, off Langata South Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2895824,
+    "lng": 36.7831498
+  },
+  "name": "Godials Bed & Breakfast",
+  "vicinity": "Lenana Rd, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2936244,
+    "lng": 36.7952069
+  },
+  "name": "Best Western Premier Nairobi",
+  "vicinity": "Ground Floor, Best Western Premier Building, Argwings Kodhek Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3425279,
+    "lng": 36.7055201
+  },
+  "name": "Hemingways Nairobi",
+  "vicinity": "Mbagathi Ridge, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356063,
+    "lng": 36.7618492
+  },
+  "name": "Park Place Hotel Nairobi",
+  "vicinity": "Langata, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356322,
+    "lng": 36.6529146
+  },
+  "name": "PEC Guest House",
+  "vicinity": "Ngong Hills, Ngong-Kibiku Road, Ngong",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3380469,
+    "lng": 36.72475960000001
+  },
+  "name": "Schumacher's",
+  "vicinity": "Karen \"C\", Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2871455,
+    "lng": 36.7476395
+  },
+  "name": "Heshima Supermarket",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2903245,
+    "lng": 36.7495532
+  },
+  "name": "Furaha Self Selection",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3763639,
+    "lng": 36.74431689999999
+  },
+  "name": "Giraffe Centre",
+  "vicinity": "Duma Road, Nairobi",
+  "type": ["park", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864349,
+    "lng": 36.745263
+  },
+  "name": "Sokoni Arcade VCT",
+  "vicinity": "Nairobi City",
+  "type": ["health", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3640088,
+    "lng": 36.76445459999999
+  },
+  "name": "Longview Suites Hotel",
+  "vicinity": "Magadi Road, Karen, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3233862,
+    "lng": 36.7077684
+  },
+  "name": "Dorman's",
+  "vicinity": "Langata, Nairobi",
+  "type": ["cafe", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864403,
+    "lng": 36.7452228
+  },
+  "name": "Sokoni Arcade",
+  "vicinity": "Nairobi City",
+  "type": ["shopping_mall", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2873583,
+    "lng": 36.7225206
+  },
+  "name": "Brookline High School",
+  "vicinity": "Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.276157,
+    "lng": 36.7104238
+  },
+  "name": "Waithaka Riverside Secondary School",
+  "vicinity": "Queens Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2543366,
+    "lng": 36.68166099999999
+  },
+  "name": "Kikuyu",
+  "vicinity": "Kikuyu",
+  "type": ["locality", "political"]
+}][{
+  "location": {
+    "lat": -1.2920659,
+    "lng": 36.82194619999999
+  },
+  "name": "Nairobi",
+  "vicinity": "Nairobi",
+  "type": ["locality", "political"]
+}, {
+  "location": {
+    "lat": -1.3218413,
+    "lng": 36.7168038
+  },
+  "name": "Bush House & Camp",
+  "vicinity": "silanga Avenue, Fair Acres Road Off Karen/Langata Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3501996,
+    "lng": 36.7594509
+  },
+  "name": "Hotel Troy",
+  "vicinity": "73 Magadi Road, Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3608353,
+    "lng": 36.7428212
+  },
+  "name": "Royale Hotel Karen",
+  "vicinity": "Ndalat Rd, off Langata South Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2895824,
+    "lng": 36.7831498
+  },
+  "name": "Godials Bed & Breakfast",
+  "vicinity": "Lenana Rd, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2936244,
+    "lng": 36.7952069
+  },
+  "name": "Best Western Premier Nairobi",
+  "vicinity": "Ground Floor, Best Western Premier Building, Argwings Kodhek Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3425279,
+    "lng": 36.7055201
+  },
+  "name": "Hemingways Nairobi",
+  "vicinity": "Mbagathi Ridge, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356063,
+    "lng": 36.7618492
+  },
+  "name": "Park Place Hotel Nairobi",
+  "vicinity": "Langata, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356322,
+    "lng": 36.6529146
+  },
+  "name": "PEC Guest House",
+  "vicinity": "Ngong Hills, Ngong-Kibiku Road, Ngong",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3380469,
+    "lng": 36.72475960000001
+  },
+  "name": "Schumacher's",
+  "vicinity": "Karen \"C\", Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2871455,
+    "lng": 36.7476395
+  },
+  "name": "Heshima Supermarket",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2903245,
+    "lng": 36.7495532
+  },
+  "name": "Furaha Self Selection",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3763639,
+    "lng": 36.74431689999999
+  },
+  "name": "Giraffe Centre",
+  "vicinity": "Duma Road, Nairobi",
+  "type": ["park", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864349,
+    "lng": 36.745263
+  },
+  "name": "Sokoni Arcade VCT",
+  "vicinity": "Nairobi City",
+  "type": ["health", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3640088,
+    "lng": 36.76445459999999
+  },
+  "name": "Longview Suites Hotel",
+  "vicinity": "Magadi Road, Karen, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3233862,
+    "lng": 36.7077684
+  },
+  "name": "Dorman's",
+  "vicinity": "Langata, Nairobi",
+  "type": ["cafe", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864403,
+    "lng": 36.7452228
+  },
+  "name": "Sokoni Arcade",
+  "vicinity": "Nairobi City",
+  "type": ["shopping_mall", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2873583,
+    "lng": 36.7225206
+  },
+  "name": "Brookline High School",
+  "vicinity": "Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.276157,
+    "lng": 36.7104238
+  },
+  "name": "Waithaka Riverside Secondary School",
+  "vicinity": "Queens Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2543366,
+    "lng": 36.68166099999999
+  },
+  "name": "Kikuyu",
+  "vicinity": "Kikuyu",
+  "type": ["locality", "political"]
+}][{
+  "location": {
+    "lat": -1.2920659,
+    "lng": 36.82194619999999
+  },
+  "name": "Nairobi",
+  "vicinity": "Nairobi",
+  "type": ["locality", "political"]
+}, {
+  "location": {
+    "lat": -1.3218413,
+    "lng": 36.7168038
+  },
+  "name": "Bush House & Camp",
+  "vicinity": "silanga Avenue, Fair Acres Road Off Karen/Langata Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3501996,
+    "lng": 36.7594509
+  },
+  "name": "Hotel Troy",
+  "vicinity": "73 Magadi Road, Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3608353,
+    "lng": 36.7428212
+  },
+  "name": "Royale Hotel Karen",
+  "vicinity": "Ndalat Rd, off Langata South Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2895824,
+    "lng": 36.7831498
+  },
+  "name": "Godials Bed & Breakfast",
+  "vicinity": "Lenana Rd, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2936244,
+    "lng": 36.7952069
+  },
+  "name": "Best Western Premier Nairobi",
+  "vicinity": "Ground Floor, Best Western Premier Building, Argwings Kodhek Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3425279,
+    "lng": 36.7055201
+  },
+  "name": "Hemingways Nairobi",
+  "vicinity": "Mbagathi Ridge, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356063,
+    "lng": 36.7618492
+  },
+  "name": "Park Place Hotel Nairobi",
+  "vicinity": "Langata, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356322,
+    "lng": 36.6529146
+  },
+  "name": "PEC Guest House",
+  "vicinity": "Ngong Hills, Ngong-Kibiku Road, Ngong",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3380469,
+    "lng": 36.72475960000001
+  },
+  "name": "Schumacher's",
+  "vicinity": "Karen \"C\", Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2871455,
+    "lng": 36.7476395
+  },
+  "name": "Heshima Supermarket",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2903245,
+    "lng": 36.7495532
+  },
+  "name": "Furaha Self Selection",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3763639,
+    "lng": 36.74431689999999
+  },
+  "name": "Giraffe Centre",
+  "vicinity": "Duma Road, Nairobi",
+  "type": ["park", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864349,
+    "lng": 36.745263
+  },
+  "name": "Sokoni Arcade VCT",
+  "vicinity": "Nairobi City",
+  "type": ["health", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3640088,
+    "lng": 36.76445459999999
+  },
+  "name": "Longview Suites Hotel",
+  "vicinity": "Magadi Road, Karen, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3233862,
+    "lng": 36.7077684
+  },
+  "name": "Dorman's",
+  "vicinity": "Langata, Nairobi",
+  "type": ["cafe", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864403,
+    "lng": 36.7452228
+  },
+  "name": "Sokoni Arcade",
+  "vicinity": "Nairobi City",
+  "type": ["shopping_mall", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2873583,
+    "lng": 36.7225206
+  },
+  "name": "Brookline High School",
+  "vicinity": "Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.276157,
+    "lng": 36.7104238
+  },
+  "name": "Waithaka Riverside Secondary School",
+  "vicinity": "Queens Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2543366,
+    "lng": 36.68166099999999
+  },
+  "name": "Kikuyu",
+  "vicinity": "Kikuyu",
+  "type": ["locality", "political"]
+}][{
+  "location": {
+    "lat": -1.2920659,
+    "lng": 36.82194619999999
+  },
+  "name": "Nairobi",
+  "vicinity": "Nairobi",
+  "type": ["locality", "political"]
+}, {
+  "location": {
+    "lat": -1.3218413,
+    "lng": 36.7168038
+  },
+  "name": "Bush House & Camp",
+  "vicinity": "silanga Avenue, Fair Acres Road Off Karen/Langata Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3501996,
+    "lng": 36.7594509
+  },
+  "name": "Hotel Troy",
+  "vicinity": "73 Magadi Road, Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3608353,
+    "lng": 36.7428212
+  },
+  "name": "Royale Hotel Karen",
+  "vicinity": "Ndalat Rd, off Langata South Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2895824,
+    "lng": 36.7831498
+  },
+  "name": "Godials Bed & Breakfast",
+  "vicinity": "Lenana Rd, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2936244,
+    "lng": 36.7952069
+  },
+  "name": "Best Western Premier Nairobi",
+  "vicinity": "Ground Floor, Best Western Premier Building, Argwings Kodhek Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3425279,
+    "lng": 36.7055201
+  },
+  "name": "Hemingways Nairobi",
+  "vicinity": "Mbagathi Ridge, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356063,
+    "lng": 36.7618492
+  },
+  "name": "Park Place Hotel Nairobi",
+  "vicinity": "Langata, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356322,
+    "lng": 36.6529146
+  },
+  "name": "PEC Guest House",
+  "vicinity": "Ngong Hills, Ngong-Kibiku Road, Ngong",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3380469,
+    "lng": 36.72475960000001
+  },
+  "name": "Schumacher's",
+  "vicinity": "Karen \"C\", Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2871455,
+    "lng": 36.7476395
+  },
+  "name": "Heshima Supermarket",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2903245,
+    "lng": 36.7495532
+  },
+  "name": "Furaha Self Selection",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3763639,
+    "lng": 36.74431689999999
+  },
+  "name": "Giraffe Centre",
+  "vicinity": "Duma Road, Nairobi",
+  "type": ["park", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864349,
+    "lng": 36.745263
+  },
+  "name": "Sokoni Arcade VCT",
+  "vicinity": "Nairobi City",
+  "type": ["health", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3640088,
+    "lng": 36.76445459999999
+  },
+  "name": "Longview Suites Hotel",
+  "vicinity": "Magadi Road, Karen, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3233862,
+    "lng": 36.7077684
+  },
+  "name": "Dorman's",
+  "vicinity": "Langata, Nairobi",
+  "type": ["cafe", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864403,
+    "lng": 36.7452228
+  },
+  "name": "Sokoni Arcade",
+  "vicinity": "Nairobi City",
+  "type": ["shopping_mall", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2873583,
+    "lng": 36.7225206
+  },
+  "name": "Brookline High School",
+  "vicinity": "Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.276157,
+    "lng": 36.7104238
+  },
+  "name": "Waithaka Riverside Secondary School",
+  "vicinity": "Queens Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2543366,
+    "lng": 36.68166099999999
+  },
+  "name": "Kikuyu",
+  "vicinity": "Kikuyu",
+  "type": ["locality", "political"]
+}][{
+  "location": {
+    "lat": -1.2920659,
+    "lng": 36.82194619999999
+  },
+  "name": "Nairobi",
+  "vicinity": "Nairobi",
+  "type": ["locality", "political"]
+}, {
+  "location": {
+    "lat": -1.3218413,
+    "lng": 36.7168038
+  },
+  "name": "Bush House & Camp",
+  "vicinity": "silanga Avenue, Fair Acres Road Off Karen/Langata Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3501996,
+    "lng": 36.7594509
+  },
+  "name": "Hotel Troy",
+  "vicinity": "73 Magadi Road, Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3608353,
+    "lng": 36.7428212
+  },
+  "name": "Royale Hotel Karen",
+  "vicinity": "Ndalat Rd, off Langata South Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2895824,
+    "lng": 36.7831498
+  },
+  "name": "Godials Bed & Breakfast",
+  "vicinity": "Lenana Rd, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2936244,
+    "lng": 36.7952069
+  },
+  "name": "Best Western Premier Nairobi",
+  "vicinity": "Ground Floor, Best Western Premier Building, Argwings Kodhek Road, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3425279,
+    "lng": 36.7055201
+  },
+  "name": "Hemingways Nairobi",
+  "vicinity": "Mbagathi Ridge, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356063,
+    "lng": 36.7618492
+  },
+  "name": "Park Place Hotel Nairobi",
+  "vicinity": "Langata, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.356322,
+    "lng": 36.6529146
+  },
+  "name": "PEC Guest House",
+  "vicinity": "Ngong Hills, Ngong-Kibiku Road, Ngong",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3380469,
+    "lng": 36.72475960000001
+  },
+  "name": "Schumacher's",
+  "vicinity": "Karen \"C\", Nairobi",
+  "type": ["point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2871455,
+    "lng": 36.7476395
+  },
+  "name": "Heshima Supermarket",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2903245,
+    "lng": 36.7495532
+  },
+  "name": "Furaha Self Selection",
+  "vicinity": "Nairobi City",
+  "type": ["grocery_or_supermarket", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3763639,
+    "lng": 36.74431689999999
+  },
+  "name": "Giraffe Centre",
+  "vicinity": "Duma Road, Nairobi",
+  "type": ["park", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864349,
+    "lng": 36.745263
+  },
+  "name": "Sokoni Arcade VCT",
+  "vicinity": "Nairobi City",
+  "type": ["health", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3640088,
+    "lng": 36.76445459999999
+  },
+  "name": "Longview Suites Hotel",
+  "vicinity": "Magadi Road, Karen, Nairobi",
+  "type": ["lodging", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.3233862,
+    "lng": 36.7077684
+  },
+  "name": "Dorman's",
+  "vicinity": "Langata, Nairobi",
+  "type": ["cafe", "food", "store", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2864403,
+    "lng": 36.7452228
+  },
+  "name": "Sokoni Arcade",
+  "vicinity": "Nairobi City",
+  "type": ["shopping_mall", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2873583,
+    "lng": 36.7225206
+  },
+  "name": "Brookline High School",
+  "vicinity": "Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.276157,
+    "lng": 36.7104238
+  },
+  "name": "Waithaka Riverside Secondary School",
+  "vicinity": "Queens Estate, Nairobi City",
+  "type": ["school", "point_of_interest", "establishment"]
+}, {
+  "location": {
+    "lat": -1.2543366,
+    "lng": 36.68166099999999
+  },
+  "name": "Kikuyu",
+  "vicinity": "Kikuyu",
+  "type": ["locality", "political"]
+}]
