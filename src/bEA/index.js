@@ -1,8 +1,9 @@
 const axios = require('axios');
 const _ = require('lodash');
 const fs = require('fs');
+const googleKey = require('./config');
 
-const baseUrl = 'https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=-1.3047997,36.7073117&radius=10000&key=AIzaSyAdcvMdbgjfc9hToLkzl56ZJBiQs9nhNEM';
+const baseUrl = 'https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=-1.3047997,36.7073117&radius=10000&key=' + googleKey;
 
 const businessTypes = ['restaurants', 'cafe', 'atm', 'gas_station'];
 
