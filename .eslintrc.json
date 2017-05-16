@@ -36,10 +36,13 @@
     "import/no-unresolved": 0,
     "import/no-named-as-default": 2,
     "object-property-newline" : 0,
+    "prefer-arrow-callback" : 0,
     "comma-dangle": 0,
     "indent": [2, 2, {"SwitchCase": 1}],
     "no-console": 0,
-    "no-alert": 0
+    "no-alert": 0,
+    "func-names": 0,
+    "prefer-template": 0
   },
   "plugins": [
     "import"

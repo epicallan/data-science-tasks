@@ -35,6 +35,7 @@
     "fs-promise": "^2.0.2",
     "ip-info": "0.0.1",
     "iplocation": "^4.0.1",
+    "lodash": "^4.17.4",
     "ramda": "^0.22.1",
     "rxjs-es": "^5.0.0-beta.11"
   },
