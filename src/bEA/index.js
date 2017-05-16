@@ -2,11 +2,9 @@ const axios = require('axios');
 const _ = require('lodash');
 const fs = require('fs');
 
-const baseUrl = 'https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=0.3138386,32.529085&radius=5000&key=AIzaSyAdcvMdbgjfc9hToLkzl56ZJBiQs9nhNEM';
+const baseUrl = 'https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=-1.3047997,36.7073117&radius=10000&key=AIzaSyAdcvMdbgjfc9hToLkzl56ZJBiQs9nhNEM';
 
-// const businessTypes = ['restaurants', 'cafe', 'atm', 'gas_station'];
-
-const businessTypes = ['restaurants', 'cafe'];
+const businessTypes = ['restaurants', 'cafe', 'atm', 'gas_station'];
 
 function createUrl(options) {
   const url = baseUrl + '&type=' + options.type;
@@ -16,21 +14,17 @@ function createUrl(options) {
 
 function processData(data) {
   //  location obj, type obj, name , vicinity
-  /**
-    { location : {
-       "lat": -33.871042,
-         "lng": 151.1978691
-      },
-      name: "business name",
-      vicinity: "vicinity name"
-      type: [types]
-    }
-   */
-
-  const results = _.map(data, function () {
-
+  const results = _.map(data, function (obj) {
+    const business = {
+      location: obj.geometry.location,
+      name: obj.name,
+      vicinity: obj.vicinity,
+      type: obj.types
+    };
+    return business;
   });
-  fs.appendFile('business.json', JSON.stringify(results), function (err) {
+
+  fs.appendFile('business-nairobi.json', JSON.stringify(results), function (err) {
     if (err) console.log(err);
     console.log('It\'s saved!');
   });
